@@ -63,7 +63,7 @@
             <div class="footer-bottom-area">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
-                        <p><i class='bx bx-copyright'></i> {{currentYear}} <strong>Rivate</strong> is Proudly Powered by <a target="_blank" href="https://envytheme.com/">EnvyTheme</a></p>
+                        <p><i class='bx bx-copyright'></i> {{currentYear}} <strong>AInFlow</strong> is Proudly Powered by <a target="_blank" href="#">AInFlow</a></p>
                     </div>
 
                     <div class="col-lg-6 col-md-6">

@@ -1,54 +1,54 @@
 <template>
     <div>
-        <NavbarStyleTwo class="rivate-new-navbar-area" />
+        <NavbarStyleTwo />
         <MainBanner />
-        <Features />
-        <AboutUs />
-        <WhatWeDo />
+        <ServicesContant />
+        <AboutUsStyleTwo />
         <CheckOurServices />
-        <BookAppointment />
-        <CaseStudy />
+        <WhatWeDo />
+        <WhatOurClientsSaying />
+        <OurSomeRecentWorks />
         <Partner />
-        <OurTeam />
-        <OurClientsAreSaying />
+        <OurTeamStyleTwo />
+        <OurFlexiblePricingPlan />
+        <StartYourProjectWithUs />
         <LatestBlog />
-        <OurNewsletter />
-        <FooterTwo />
+        <Footer />
     </div>
 </template>
 
 <script>
-import NavbarStyleTwo from '../layouts/Navbar'
-import MainBanner from '../components/HomeEight/MainBanner'
-import Features from '../components/HomeEight/Features'
-import AboutUs from '../components/HomeEight/AboutUs'
-import WhatWeDo from '../components/HomeEight/WhatWeDo'
-import CheckOurServices from '../components/HomeEight/CheckOurServices'
-import BookAppointment from '../components/HomeEight/BookAppointment'
-import CaseStudy from '../components/HomeEight/CaseStudy'
-import Partner from '../components/HomeEight/Partner'
-import OurTeam from '../components/HomeEight/OurTeam'
-import OurClientsAreSaying from '../components/HomeEight/OurClientsAreSaying'
-import LatestBlog from '../components/HomeEight/LatestBlog'
-import OurNewsletter from '../components/HomeEight/OurNewsletter'
-import FooterTwo from '../layouts/Footer'
+    import NavbarStyleTwo from '../layouts/Navbar'
+    import MainBanner from '../components/HomeTwo/MainBanner'
+    import ServicesContant from '../components/HomeTwo/ServicesContant'
+    import AboutUsStyleTwo from '../components/Common/AboutUsStyleTwo'
+    import CheckOurServices from '../components/Common/CheckOurServices'
+    import WhatWeDo from '../components/Common/WhatWeDo'
+    import WhatOurClientsSaying from '../components/Common/WhatOurClientsSaying'
+    import OurSomeRecentWorks from '../components/Common/OurSomeRecentWorks'
+    import Partner from '../components/Common/Partner'
+    import OurTeamStyleTwo from '../components/Common/OurTeamStyleTwo'
+    import OurFlexiblePricingPlan from '../components/Common/OurFlexiblePricingPlan'
+    import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
+    import LatestBlog from '../components/Common/LatestBlog'
+    import Footer from '../layouts/Footer'
 
-export default {
-    components: {
-        NavbarStyleTwo,
-        MainBanner,
-        Features,
-        AboutUs,
-        WhatWeDo,
-        CheckOurServices,
-        BookAppointment,
-        CaseStudy,
-        Partner,
-        OurTeam,
-        OurClientsAreSaying,
-        LatestBlog,
-        OurNewsletter,
-        FooterTwo,
+    export default {
+        components: {
+            NavbarStyleTwo,
+            MainBanner,
+            ServicesContant,
+            AboutUsStyleTwo,
+            CheckOurServices,
+            WhatWeDo,
+            WhatOurClientsSaying,
+            OurSomeRecentWorks,
+            Partner,
+            OurTeamStyleTwo,
+            OurFlexiblePricingPlan,
+            StartYourProjectWithUs,
+            LatestBlog,
+            Footer,
+        }
     }
-}
 </script>

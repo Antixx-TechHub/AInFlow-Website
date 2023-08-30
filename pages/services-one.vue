@@ -1,24 +1,24 @@
 <template>
     <div>
-        <NavbarStyleFour />
+        <NavbarStyleTwo />
         <PageTitle pageTitle="Services" />
         <ServicesContent />
-        <Footer />
+        <FooterTwo />
     </div>
 </template>
 
 <script>
-    import NavbarStyleFour from '../layouts/NavbarStyleFour'
+    import NavbarStyleTwo from '../layouts/Navbar'
     import PageTitle from '../components/Common/PageTitle'
     import ServicesContent from '../components/ServicesOne/ServicesContent'
-    import Footer from '../layouts/Footer'
+    import FooterTwo from '../layouts/Footer'
 
     export default {
         components: {
-            NavbarStyleFour,
+            NavbarStyleTwo,
             PageTitle,
             ServicesContent,
-            Footer,
+            FooterTwo,
         }
     }
 </script>

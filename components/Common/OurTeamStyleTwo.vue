@@ -88,7 +88,7 @@ export default {
         }
     },
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/team?populate=deep,5')
+        const response = await axios.get('https://cms.ainflow.co.in/api/team?populate=deep,5')
         const { data: { attributes } } = response.data
         this.teams = attributes
     },

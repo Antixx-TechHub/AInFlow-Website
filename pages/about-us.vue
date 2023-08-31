@@ -41,7 +41,7 @@ export default {
     },
     created: async function () {
         const { slug } = this.$route.params
-        const reaponse = await axios.get(`https://cms.ainflow.co.in/api/pages?filters[slug][$eq]=cpq&populate=deep,5`, { params: { slug } })
+        const reaponse = await axios.get(`https://cms.ainflow.co.in/api/pages?filters[slug][$eq]=about-us&populate=deep,5`, { params: { slug } })
         this.details = reaponse.data.data;
         const pageData = this.details.length > 0 ? this.details[0] : {};
         if (pageData?.attributes?.seo) {

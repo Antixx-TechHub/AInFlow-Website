@@ -4,67 +4,33 @@
             <div class="section-title">
                 <span class="sub-title">Our Blog</span>
                 <h2>Our Latest Media</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna.</p>
             </div>
 
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
+            <div class="row" v-if="blogs !== []">
+                <div class="col-lg-4 col-md-6" v-for="blog in blogs.slice(
+                    (currentPage - 1) * perPage,
+                    currentPage * perPage,
+                )" :key="blog.id">
                     <div class="single-blog-post">
                         <div class="image">
-                            <NuxtLink to="/blog-details-one" class="d-block">
-                                <img src="~/assets/images/blog/blog-img1.jpg" alt="image">
+                            <NuxtLink :to="'/blog-details/' + blog.attributes.slug" class="d-block">
+                                <img :src="blog.attributes.image.data.attributes.url" alt="blog">
                             </NuxtLink>
                         </div>
 
                         <div class="content">
-                            <h3><NuxtLink to="/blog-details-one">Digital Marketing Agency Blogs You Should Read</NuxtLink></h3>
+                            <h3>
+                                <NuxtLink :to="'/blog-details/' + blog.attributes.slug">
+                                    {{ blog.attributes.title }}
+                                </NuxtLink>
+                            </h3>
                             <div class="d-flex align-items-center">
-                                <img src="~/assets/images/user1.jpg" alt="image">
+                                <img :src="blog.attributes.avtar.data.attributes.url" alt="blog">
                                 <div class="info">
-                                    <h5>David Smith</h5>
-                                    <span>Jun 21, 2021</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <NuxtLink to="/blog-details-one" class="d-block">
-                                <img src="~/assets/images/blog/blog-img2.jpg" alt="image">
-                            </NuxtLink>
-                        </div>
-
-                        <div class="content">
-                            <h3><NuxtLink to="/blog-details-one">Digital Marketing Strategies for Lead Generation</NuxtLink></h3>
-                            <div class="d-flex align-items-center">
-                                <img src="~/assets/images/user2.jpg" alt="image">
-                                <div class="info">
-                                    <h5>Sarah Taylor</h5>
-                                    <span>Jun 20, 2021</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
-                    <div class="single-blog-post">
-                        <div class="image">
-                            <NuxtLink to="/blog-details-one" class="d-block">
-                                <img src="~/assets/images/blog/blog-img3.jpg" alt="image">
-                            </NuxtLink>
-                        </div>
-
-                        <div class="content">
-                            <h3><NuxtLink to="/blog-details-one">Agencies Can Successfully Recover From COVID?</NuxtLink></h3>
-                            <div class="d-flex align-items-center">
-                                <img src="~/assets/images/user3.jpg" alt="image">
-                                <div class="info">
-                                    <h5>Steven Gibson</h5>
-                                    <span>Jun 19, 2021</span>
+                                    <h5>{{ blog.attributes.author }}</h5>
+                                    <span>{{ blog.attributes.date }}</span>
                                 </div>
                             </div>
                         </div>
@@ -77,7 +43,22 @@
 
 <script>
 
+import axios from 'axios'
+
 export default {
-    name: 'LatestBlog'
+    name: 'BlogContent',
+    data() {
+        return {
+            blogs: [],
+            rows: 0,
+            currentPage: 1,
+            perPage: 9,
+        }
+    },
+    created: async function () {
+        const response = await axios.get('https://cms.ainflow.co.in/api/blogs?populate=*')
+        this.blogs = response.data.data;
+        this.rows = this.blogs?.length;
+    },
 }
 </script>

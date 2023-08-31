@@ -31,7 +31,7 @@ export default {
         partners: null,
     }),
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/partner?populate=partnerSlides.image')
+        const response = await axios.get('https://cms.ainflow.co.in/api/partner?populate=partnerSlides.image')
         const { data: { attributes } } = response.data
         this.partners = attributes
     },

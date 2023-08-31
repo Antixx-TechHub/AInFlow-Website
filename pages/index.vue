@@ -32,6 +32,8 @@
     import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
     import LatestBlog from '../components/Common/LatestBlog'
     import Footer from '../layouts/Footer'
+    import axios from 'axios';
+
 
     export default {
         components: {
@@ -49,6 +51,27 @@
             StartYourProjectWithUs,
             LatestBlog,
             Footer,
+        },
+    data() {
+        return {
+            seoData: null,
         }
-    }
+    },
+    created: async function () {
+        const { slug } = this.$route.params
+        const reaponse = await axios.get(`https://cms.ainflow.co.in/api/pages?filters[slug][$eq]=index&populate=deep,5`, { params: { slug } })
+        this.details = reaponse.data.data;
+        const pageData = this.details.length > 0 ? this.details[0] : {};
+        if (pageData?.attributes?.seo) {
+            this.seoData = pageData.attributes.seo;
+        }
+    },
+    head({ $seo }) {
+        return $seo({
+            title: this.seoData?.metaTitle,
+            description: this.seoData?.metaDescription,
+            keywords: this.seoData?.keywords,
+        });
+    },
+}
 </script>

@@ -55,7 +55,7 @@ export default {
         }
     },
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/successstories?populate=*')
+        const response = await axios.get('https://cms.ainflow.co.in/api/successstories?populate=*')
         this.successstories = response.data.data.sort((b, a) => a.id - b.id);
         this.rows = this.successstories?.length;
     },

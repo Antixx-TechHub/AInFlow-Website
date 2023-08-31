@@ -62,7 +62,7 @@ export default {
         }
     },
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/featuredblogs?populate=*')
+        const response = await axios.get('https://cms.ainflow.co.in/api/featuredblogs?populate=*')
         this.featuredblogs = response.data.data;
         this.rows = this.featuredblogs?.length;
     },

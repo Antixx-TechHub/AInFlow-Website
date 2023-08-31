@@ -59,7 +59,7 @@ export default {
         }
     },
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/portfolios?populate=*')
+        const response = await axios.get('https://cms.ainflow.co.in/api/portfolios?populate=*')
         this.portfolios = response.data.data;
         this.rows = this.portfolios?.length;
     },

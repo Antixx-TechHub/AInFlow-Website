@@ -36,7 +36,7 @@ export default {
     async fetchCategories() {
       try {
         const { slug } = this.$route.params
-        const reaponse = await axios.get(`https://evolvestrapi.pbwebvision.in/api/blog-categories?filters[slug][$eq]=${slug}&populate=deep,5`, { params: { slug } })
+        const reaponse = await axios.get(`https://cms.ainflow.co.in/api/blog-categories?filters[slug][$eq]=${slug}&populate=deep,5`, { params: { slug } })
         this.category = reaponse.data.data.sort((b, a) => a.id - b.id);
         this.rows = this.category?.length;
       } catch (error) {

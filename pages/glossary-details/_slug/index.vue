@@ -31,7 +31,7 @@ export default {
     },
     created: async function () {
         const { slug } = this.$route.params
-        const reaponse = await axios.get(`https://evolvestrapi.pbwebvision.in/api/glossaries?filters[slug][$eq]=${slug}&populate=*`, { params: { slug } })
+        const reaponse = await axios.get(`https://cms.ainflow.co.in/api/glossaries?filters[slug][$eq]=${slug}&populate=*`, { params: { slug } })
         this.details = reaponse.data.data.sort((b, a) => a.id - b.id);
         const pageData = this.details.length > 0 ? this.details[0] : {};
         if (pageData?.attributes?.seo) {

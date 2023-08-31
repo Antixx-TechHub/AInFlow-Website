@@ -55,14 +55,14 @@ export default {
         }
     },
     created: async function () {
-        axios.get('https://evolvestrapi.pbwebvision.in/api/glossaries?populate=*')
+        axios.get('https://cms.ainflow.co.in/api/glossaries?populate=*')
             .then(response => {
                 this.glossaries = response.data.data.sort((b, a) => a.id - b.id);
             })
             .catch(error => {
                 console.error(error);
             });
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/glossary-categories')
+        const response = await axios.get('https://cms.ainflow.co.in/api/glossary-categories')
         this.glossarycategories = response.data.data.sort((a, b) => a.id - b.id);
     },
 }

@@ -195,14 +195,14 @@ export default {
         }
     },
     created: async function () {
-        axios.get('https://evolvestrapi.pbwebvision.in/api/successstories?populate=*')
+        axios.get('https://cms.ainflow.co.in/api/successstories?populate=*')
             .then(response => {
                 this.successstories = response.data.data.sort((b, a) => a.id - b.id);
             })
             .catch(error => {
                 console.error(error);
             });
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/successcategories')
+        const response = await axios.get('https://cms.ainflow.co.in/api/successcategories')
         this.successcategories = response.data.data.sort((b, a) => a.id - b.id);
     },
 }

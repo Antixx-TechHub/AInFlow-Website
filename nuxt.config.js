@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Evolve BPM',
+    title: 'AInFlow',
     htmlAttrs: {
       lang: 'en-us'
     },
@@ -54,7 +54,7 @@ export default {
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
-    baseURL: 'https://dealdoxstrapi.pbwebvision.com/api',
+    baseURL: 'https://cms.ainflow.co.in/api',
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build

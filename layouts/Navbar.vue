@@ -43,6 +43,10 @@
                             </li>
 
                             <li class="nav-item">
+                                <NuxtLink to="/services-details" class="nav-link">Security</NuxtLink>
+                            </li>
+
+                            <li class="nav-item">
                                 <NuxtLink to="" class="nav-link">Resources</NuxtLink>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
@@ -56,6 +60,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/case-studies" class="nav-link">Case Study</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/carrers" class="nav-link">Carrers</NuxtLink>
                                     </li>
                                 </ul>
 

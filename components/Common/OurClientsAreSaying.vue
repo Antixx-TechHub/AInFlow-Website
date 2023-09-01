@@ -1,85 +1,52 @@
 <template>
-    <div class="testimonials-area">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-7 col-md-12">
-                    <div class="testimonials-content">
-                        <span class="sub-title">Testimonials</span>
-                        <h2>What Our Clients Are Saying?</h2>
+    <div class="rivate-clients-area ptb-100">
+        <div class="container">
+            <div class="section-title with-gradient-color">
+                <span class="sub-title">TESTIMONIALS</span>
+                <h2>What Our Clients Are Saying?</h2>
+            </div>
 
-                        <div class="testimonials-slides owl-carousel owl-theme">
-                            <carousel
-                                :autoplay = "true"
-                                :loop = "true"
-                                :autoplayTimeout="7000"
-                                :speed="1000"
-                                :paginationEnabled = "true"
-                                :perPageCustom = "[[0, 1]]"
-                            >
-                                <slide>
-                                    <div class="single-testimonials-item">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-
-                                        <div class="client-info">
-                                            <div class="d-flex align-items-center">
-                                                <img src="~/assets/images/user1.jpg" alt="image">
-                                                <div class="title">
-                                                    <h3>John Smith</h3>
-                                                    <span>Python Developer</span>
-                                                </div>
-                                            </div>
-                                        </div>
+            <div class="rivate-clients-slides owl-carousel owl-theme">
+                <carousel :autoplay="true" :loop="true" :autoplayTimeout="5000" :speed="1000" :paginationEnabled="true"
+                    :perPageCustom="[[0, 1], [576, 2], [768, 2], [1024, 3], [1200, 3]]" v-if="customerreviews !== null">
+                    <slide v-for="customerreview in customerreviews.singleFeedbacks" :key="customerreview.id">
+                        <div class="rivate-clients-card">
+                            <div class="client-info">
+                                <div class="d-flex align-items-center">
+                                    <img :src="customerreview.media.data.attributes.url" alt="Testimonials">
+                                    <div class="title">
+                                        <h3>{{ customerreview.name }}</h3>
+                                        <span>{{ customerreview.designation }}</span>
                                     </div>
-                                </slide>
-
-                                <slide>
-                                    <div class="single-testimonials-item">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-
-                                        <div class="client-info">
-                                            <div class="d-flex align-items-center">
-                                                <img src="~/assets/images/user2.jpg" alt="image">
-                                                <div class="title">
-                                                    <h3>Sarah Taylor</h3>
-                                                    <span>Web Developer</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </slide>
-
-                                <slide>
-                                    <div class="single-testimonials-item">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-
-                                        <div class="client-info">
-                                            <div class="d-flex align-items-center">
-                                                <img src="~/assets/images/user3.jpg" alt="image">
-                                                <div class="title">
-                                                    <h3>James Anderson</h3>
-                                                    <span>Web Designer</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </slide>
-                            </carousel>
+                                </div>
+                            </div>
+                            <p>{{ customerreview.shortDec }}</p>
+                            <div class="icon">
+                                <i class="flaticon-quote"></i>
+                            </div>
                         </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-5 col-md-12">
-                    <div class="testimonials-image">
-                        <img src="~/assets/images/testimonials-img.jpg" alt="image">
-                    </div>
-                </div>
+                    </slide>
+                </carousel>
             </div>
         </div>
     </div>
 </template>
 
 <script>
-    export default {
-        name: 'OurClientsAreSaying'
-    }
+
+import axios from 'axios'
+
+export default {
+    name: 'OurClientsAreSaying',
+    data() {
+        return {
+            customerreviews: null,
+        }
+    },
+    created: async function () {
+        const response = await axios.get('https://cms.ainflow.co.in/api/customerreview?populate=singleFeedbacks.media')
+        const { data: { attributes } } = response.data;
+        this.customerreviews = attributes
+    },
+}
 </script>

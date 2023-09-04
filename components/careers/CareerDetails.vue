@@ -1,15 +1,15 @@
 <template>
     <div class="career-details-area pt-100 pb-100">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-9 col-md-12">
-                        <div class="career-details-desc">
-                            <h3>{{ details[0].attributes.title }}</h3>
-                            <div class="career-content">
-                                <h4>Job Description</h4>
-                                <p v-html="details[0].attributes.detailsText"></p>
-                            </div>
-                            <div class="comments-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-md-12">
+                    <div class="career-details-desc">
+                        <h3>{{ details[0].attributes.title }}</h3>
+                        <div class="career-content">
+                            <h4>Job Description</h4>
+                            <p v-html="details[0].attributes.detailsText"></p>
+                        </div>
+                        <div class="comments-area">
                             <div class="comment-respond">
                                 <h3 class="comment-reply-title">Leave a Reply</h3>
 
@@ -48,24 +48,21 @@
                                 </form>
                             </div>
                         </div>
-                            <div class="career-details-image">
-                                <!-- <img src="../../assets/images/career-details.jpg" alt="image"> -->
+                        <div class="career-details-image">
+                            <!-- <img src="../../assets/images/career-details.jpg" alt="image"> -->
 
-                                <a 
-                                    href="javascript:void(0)" 
-                                    v-on:click="isPopupMethod(isPopup)" 
-                                    class="video-btn popup-youtube"
-                                >
-                                    <i class="ri-play-fill"></i>
-                                </a>
-                            </div>
+                            <a href="javascript:void(0)" v-on:click="isPopupMethod(isPopup)"
+                                class="video-btn popup-youtube">
+                                <i class="ri-play-fill"></i>
+                            </a>
                         </div>
                     </div>
+                </div>
 
-                    <div class="col-lg-3 col-md-12">
-                        <div class="portfolio-sidebar-sticky">
+                <div class="col-lg-4 col-md-12">
+                    <div class="portfolio-sidebar-sticky">
                         <div class="portfolio-details-info">
-                                                        <h3>Job Overview</h3>
+                            <h3>Job Overview</h3>
 
                             <ul class="list">
                                 <li>
@@ -92,10 +89,10 @@
                             </ul>
                         </div>
                     </div>
-                    </div>
                 </div>
             </div>
         </div>
+    </div>
 </template>
 
 <script>

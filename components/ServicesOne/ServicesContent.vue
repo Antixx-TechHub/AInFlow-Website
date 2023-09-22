@@ -11,9 +11,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Marketing Analysis</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">AI -ML Integration</NuxtLink>
+                        </h3>
+                        <p>A"Integrating Artificial Intelligence (AI) and Machine Learning (ML) into Existing IT Frameworks:
+                            Unlocking Opportunities and Navigating Obstacles</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -26,9 +31,16 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Website Optimization</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">DLP</NuxtLink>
+                        </h3>
+                        <p>Cybersecurity Empowerment: Unveiling Data Loss Prevention (DLP)
+                            is your fortress against the unauthorized sharing, transfer, or
+                            misuse of sensitive data.
+                        </p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -41,9 +53,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Email Marketing</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">EMS</NuxtLink>
+                        </h3>
+                        <p>Unlocking the Road to Organizational Brilliance. In today's dynamic business arena, Enterprise
+                            Management Services (EMS).have risen to prominence as indispensable catalysts</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -56,9 +73,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Social Media Marketing</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">Internet</NuxtLink>
+                        </h3>
+                        <p>The internet, often referred to as the "Information Superhighway," is one of the most
+                            revolutionary inventions in human history</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -71,9 +93,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Keyward Research</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">Intranet</NuxtLink>
+                        </h3>
+                        <p>In today's fast-paced business landscape, effective communication and collaboration are essential
+                            for an organization's success</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -86,12 +113,17 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Content Marketing</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details"> Microsoft Dynamic-365</NuxtLink>
+                        </h3>
+                        <p>Dynamics 365: Empowering Business Transformation - Unleash a suite of intelligent business
+                            applications designed to supercharge</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-featured-services-box">
                         <div class="icon">
@@ -101,9 +133,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">PPC Advertising</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">PowerApp</NuxtLink>
+                        </h3>
+                        <p>Microsoft's Power Apps initiative offers a swift route to create and share potent low-code
+                            applications. This comprehensive suite encompasses apps</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -116,9 +153,14 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Competitor Research</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details">Microsoft Office 365</NuxtLink>
+                        </h3>
+                        <p> an era defined by digital transformation, organizations require tools and solutions that
+                            facilitate seamless communication, enhance productivity, and foster collaboration</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
@@ -131,26 +173,211 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                        <h3><NuxtLink to="/services-details">Skyrocketing Growth</NuxtLink></h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i class="left-icon flaticon-next-button"></i> Learn More <i class="right-icon flaticon-next-button"></i></NuxtLink>
+                        <h3>
+                            <NuxtLink to="/services-details"> PowerFlow</NuxtLink>
+                        </h3>
+                        <p>Harnessing the innovative capabilities of our distinctive Lattice Boltzmann-driven physics, the
+                            PowerFLOW CFD solution excels in conducting simulations</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
                 </div>
 
-                <div class="col-lg-12 col-md-12">
-                    <div class="pagination-area text-center">
-                        <a href="/services-one" class="prev page-numbers"><i class='bx bx-chevrons-left'></i></a>
-                        <span class="page-numbers current" aria-current="page">1</span>
-                        <a href="/services-one" class="page-numbers">2</a>
-                        <a href="/services-one" class="page-numbers">3</a>
-                        <a href="/services-one" class="page-numbers">4</a>
-                        <a href="/services-one" class="next page-numbers"><i class='bx bx-chevrons-right'></i></a>
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-ppc"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">Staff Augmentation</NuxtLink>
+                        </h3>
+                        <p>Navigating the Shifting Tides of Modern Business: Embracing Staff Augmentation. Amidst the
+                            ever-evolving and fiercely competitive business arena of today</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-competitor"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details"> UI Development</NuxtLink>
+                        </h3>
+                        <p>UI development is the process of programming client-facing interfaces. Like UI design, the UI
+                            development process includes writing code for images, animations, sliders, text fields, buttons
+                        </p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">VAPT</NuxtLink>
+                        </h3>
+                        <p>Vulnerability Assessment and Penetration Testing (VAPT) is a comprehensive approach to
+                            cybersecurity testing that plays a crucial role in safeguarding your organization</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">Power BI</NuxtLink>
+                        </h3>
+                        <p>MS Power BI stands as a robust business intelligence platform, placing the power of data at the
+                            fingertips of non-technical business users. With its intuitive interface</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">Business centre</NuxtLink>
+                        </h3>
+                        <p>"In today's fiercely competitive business landscape, enterprises constantly seek innovative
+                            strategies to cut costs, boost operational output, and enhance efficiency.</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">Business centre</NuxtLink>
+                        </h3>
+                        <p>"In today's fiercely competitive business landscape, enterprises constantly seek innovative
+                            strategies to cut costs, boost operational output, and enhance efficiency.</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">SAP Resources</NuxtLink>
+                        </h3>
+                        <p>SAP (Systems, Applications, and Products) is a globally renowned software company that provides a
+                            wide range of business solutions</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-6">
+                    <div class="single-featured-services-box">
+                        <div class="icon">
+                            <i class="flaticon-startup"></i>
+                            <div class="circles-box">
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
+                        </div>
+                        <h3>
+                            <NuxtLink to="/services-details">End User Protection</NuxtLink>
+                        </h3>
+                        <p>Endpoint security, a critical component of modern cybersecurity, focuses on thwarting
+                            unauthorized entities and cyber campaigns</p>
+                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                                class="left-icon flaticon-next-button"></i> Learn More <i
+                                class="right-icon flaticon-next-button"></i></NuxtLink>
+                    </div>
+                </div>
+
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="single-featured-services-box">
+                    <div class="icon">
+                        <i class="flaticon-startup"></i>
+                        <div class="circles-box">
+                            <div class="circle-one"></div>
+                            <div class="circle-two"></div>
+                        </div>
+                    </div>
+                    <h3>
+                        <NuxtLink to="/services-details">Server Hardening</NuxtLink>
+                    </h3>
+                    <p>Server hardening is a crucial system fortification process designed to fortify a server against a
+                        myriad of cyber threats by minimizing its  surface</p>
+                    <NuxtLink to="/services-details" class="learn-more-btn"><i
+                            class="left-icon flaticon-next-button"></i> Learn More <i
+                            class="right-icon flaticon-next-button"></i></NuxtLink>
+                </div>
+            </div>
+
+            <div class="col-lg-12 col-md-12">
+                <div class="pagination-area text-center">
+                    <a href="/services-one" class="prev page-numbers"><i class='bx bx-chevrons-left'></i></a>
+                    <span class="page-numbers current" aria-current="page">1</span>
+                    <a href="/services-one" class="page-numbers">2</a>
+                    <a href="/services-one" class="page-numbers">3</a>
+                    <a href="/services-one" class="page-numbers">4</a>
+                    <a href="/services-one" class="next page-numbers"><i class='bx bx-chevrons-right'></i></a>
                 </div>
             </div>
         </div>
     </div>
-</template>
+</div></template>
 
 <script>
 

@@ -36,6 +36,15 @@
                                         <NuxtLink to="/services-details" class="nav-link">PowerBi</NuxtLink>
                                     </li>
                                     <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">Bussiness Centre</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">DLP</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">FNO</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
                                         <NuxtLink to="/services-details" class="nav-link">PowerApps</NuxtLink>
                                     </li>
                                     <li class="nav-item">

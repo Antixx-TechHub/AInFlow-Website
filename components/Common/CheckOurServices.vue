@@ -43,7 +43,7 @@
                         <h3>
                             <NuxtLink to="/services-details">DLP</NuxtLink>
                         </h3>
-                        <p>"Cybersecurity Empowerment: Unveiling Data Loss Prevention (DLP)
+                        <p>Cybersecurity Empowerment: Unveiling Data Loss Prevention (DLP)
                             is your fortress against the unauthorized sharing, transfer, or
                             misuse of sensitive data.
                         </p>

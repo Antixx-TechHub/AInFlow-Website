@@ -17,25 +17,25 @@
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="your_name" placeholder="Name">
+                                        <input type="text" class="form-control" id="your_name" placeholder="Name" required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="your_email" placeholder="Email">
+                                        <input type="email" class="form-control" id="your_email" placeholder="Email" required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="your_name" placeholder="Phone Number">
+                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number" required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="website" placeholder="Website">
+                                        <input type="text" class="form-control" id="website" placeholder="Website" required>
                                     </div>
                                 </div>
                             </div>

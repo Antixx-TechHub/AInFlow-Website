@@ -11,7 +11,7 @@
                             <i class='bx bx-map'></i>
                         </div>
                         <h3>Our Address</h3>
-                        <p>Kota, (Rajasthan)</p>
+                        <p>Navi Mumbai,(Maharastra)</p>
                     </div>
                 </div>
 

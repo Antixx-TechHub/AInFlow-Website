@@ -14,7 +14,7 @@
                         <div class="col-lg-6 col-md-12">
                             <div class="banner-content">
                                 <span class="sub-title">Growth Your Business</span>
-                                <h1>We Provide Best Digital Marketing Solutions</h1>
+                                <h1>Let AinFlow Seamlessly with processes within Your Organization</h1>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
                                 <div class="btn-box">
                                     <div class="d-flex align-items-center">

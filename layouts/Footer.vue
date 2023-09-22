@@ -11,13 +11,13 @@
                             creating is continually increasing.</p>
 
                         <ul class="social-link">
-                            <li><a href="https://www.facebook.com/EvolveBPM/" class="d-block" target="_blank"><i
+                            <li><a href="https://www.facebook.com/" class="d-block" target="_blank"><i
                                         class='bx bxl-facebook'></i></a></li>
-                            <li><a href="https://twitter.com/evolvebpm" class="d-block" target="_blank"><i
+                            <li><a href="https://twitter.com/" class="d-block" target="_blank"><i
                                         class='bx bxl-twitter'></i></a></li>
-                            <li><a href="https://www.instagram.com/evolvebpm/" class="d-block" target="_blank"><i
+                            <li><a href="https://www.instagram.com/" class="d-block" target="_blank"><i
                                         class='bx bxl-instagram'></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/evolve-bpm/" class="d-block" target="_blank"><i
+                            <li><a href="https://www.linkedin.com/" class="d-block" target="_blank"><i
                                         class='bx bxl-linkedin'></i></a></li>
                         </ul>
                     </div>
@@ -76,7 +76,7 @@
                         <h3>Address</h3>
 
                         <ul class="footer-contact-info">
-                            <li><i class='bx bx-map'></i>Kota, (Rajasthan)
+                            <li><i class='bx bx-map'></i>Navi Mumbai
                             </li>
                             <li><i class='bx bx-phone-call'></i><a href="tel:+11234567890">+91-9920828770 </a></li>
                             <li><i class='bx bx-envelope'></i><a href="mailto:hello@rivate.com">ainash@ainflow.co.in</a>

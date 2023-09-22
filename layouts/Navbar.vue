@@ -33,7 +33,40 @@
                             <li class="nav-item"><a href="services" class="nav-link">Services</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">Services Details</NuxtLink>
+                                        <NuxtLink to="/services-details" class="nav-link">PowerBi</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">PowerApps</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">SharePointDMS</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">M-065</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">Intranet</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">Internet</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">EMS</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">PowerFlow</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">UI Development</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">AI-ML Integration</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">End User Protection</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/services-details" class="nav-link">VAPT</NuxtLink>
                                     </li>
                                 </ul>
                             </li>

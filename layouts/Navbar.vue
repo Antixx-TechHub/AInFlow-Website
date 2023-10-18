@@ -63,19 +63,19 @@
                                         <NuxtLink to="/ems" class="nav-link">EMS</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">PowerFlow</NuxtLink>
+                                        <NuxtLink to="/powerflow" class="nav-link">PowerFlow</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">UI Development</NuxtLink>
+                                        <NuxtLink to="/ui-development" class="nav-link">UI Development</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">AI-ML Integration</NuxtLink>
+                                        <NuxtLink to="/aiml-integration" class="nav-link">AI-ML Integration</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">End User Protection</NuxtLink>
+                                        <NuxtLink to="/end-user-protection" class="nav-link">End User Protection</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">VAPT</NuxtLink>
+                                        <NuxtLink to="/vapt" class="nav-link">VAPT</NuxtLink>
                                     </li>
                                 </ul>
                             </li>

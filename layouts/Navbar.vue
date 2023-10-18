@@ -48,19 +48,19 @@
                                         <NuxtLink to="/powerapps" class="nav-link">PowerApps</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">SharePointDMS</NuxtLink>
+                                        <NuxtLink to="/sharepointdms" class="nav-link">SharePointDMS</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">M-065</NuxtLink>
+                                        <NuxtLink to="/microsoftsixtyfive" class="nav-link">M-065</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">Intranet</NuxtLink>
+                                        <NuxtLink to="/intranet" class="nav-link">Intranet</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">Internet</NuxtLink>
+                                        <NuxtLink to="/internet" class="nav-link">Internet</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">EMS</NuxtLink>
+                                        <NuxtLink to="/ems" class="nav-link">EMS</NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/services-details" class="nav-link">PowerFlow</NuxtLink>

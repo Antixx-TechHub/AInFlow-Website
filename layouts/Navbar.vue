@@ -33,19 +33,19 @@
                             <li class="nav-item"><a href="services" class="nav-link">Services</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">PowerBi</NuxtLink>
+                                        <NuxtLink to="/power-bi" class="nav-link">PowerBi</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">Bussiness Centre</NuxtLink>
+                                        <NuxtLink to="/bussiness-center" class="nav-link">Bussiness Centre</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">DLP</NuxtLink>
+                                        <NuxtLink to="/dlp" class="nav-link">DLP</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">FNO</NuxtLink>
+                                        <NuxtLink to="/fno" class="nav-link">FNO</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/services-details" class="nav-link">PowerApps</NuxtLink>
+                                        <NuxtLink to="/powerapps" class="nav-link">PowerApps</NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/services-details" class="nav-link">SharePointDMS</NuxtLink>

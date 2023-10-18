@@ -15,14 +15,14 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title">Growth Your Business</span>
-                                            <h1>We Provide Best Digital Marketing Solutions</h1>
+                                            <span class="sub-title"> AinFlow</span>
+                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <div class="d-flex align-items-center">
+                                                <!-- <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
                                                     <div class="video-btn" v-for="(image, imageIndex) in items"
                                                         :key="imageIndex" @click="index = imageIndex"
@@ -30,7 +30,7 @@
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -49,14 +49,14 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title">Seo Marketing</span>
-                                            <h1>We Provide Best SEO Marketing Solutions</h1>
+                                            <span class="sub-title"> AinFlow</span>
+                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <div class="d-flex align-items-center">
+                                                <!-- <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
                                                     <div class="video-btn" v-for="(image, imageIndex) in items"
                                                         :key="imageIndex" @click="index = imageIndex"
@@ -64,7 +64,7 @@
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -83,14 +83,14 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title">Seo Marketing</span>
-                                            <h1>We Provide Best SEO Marketing Solutions</h1>
+                                            <span class="sub-title"> AinFlow</span>
+                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <div class="d-flex align-items-center">
+                                                <!-- <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
                                                     <div class="video-btn" v-for="(image, imageIndex) in items"
                                                         :key="imageIndex" @click="index = imageIndex"
@@ -98,7 +98,7 @@
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div>
+                                                </div> -->
                                             </div>
                                         </div>
                                     </div>

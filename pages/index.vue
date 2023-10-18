@@ -10,7 +10,7 @@
         <OurSomeRecentWorks />
         <Partner />
         <OurTeamStyleTwo />
-        <OurFlexiblePricingPlan />
+        <!-- <OurFlexiblePricingPlan /> -->
         <StartYourProjectWithUs />
         <LatestBlog />
         <Footer />
@@ -28,7 +28,7 @@
     import OurSomeRecentWorks from '../components/Common/OurSomeRecentWorks'
     import Partner from '../components/Common/Partner'
     import OurTeamStyleTwo from '../components/Common/OurTeamStyleTwo'
-    import OurFlexiblePricingPlan from '../components/Common/OurFlexiblePricingPlan'
+    // import OurFlexiblePricingPlan from '../components/Common/OurFlexiblePricingPlan'
     import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
     import LatestBlog from '../components/Common/LatestBlog'
     import Footer from '../layouts/Footer'
@@ -47,7 +47,7 @@
             OurSomeRecentWorks,
             Partner,
             OurTeamStyleTwo,
-            OurFlexiblePricingPlan,
+            // OurFlexiblePricingPlan,
             StartYourProjectWithUs,
             LatestBlog,
             Footer,

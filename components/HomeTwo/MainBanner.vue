@@ -37,7 +37,7 @@
 
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-image">
-                                            <img src="~/assets/images/banner-img2.jpg" alt="image">
+                                            <img src="~/assets/images/banner1.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -71,7 +71,7 @@
 
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-image">
-                                            <img src="~/assets/images/banner-img3.jpg" alt="image">
+                                            <img src="~/assets/images/banner2.png" alt="image">
                                         </div>
                                     </div>
                                 </div>
@@ -105,7 +105,7 @@
 
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-image">
-                                            <img src="~/assets/images/banner-img3.jpg" alt="image">
+                                            <img src="~/assets/images/banner3.png" alt="image">
                                         </div>
                                     </div>
                                 </div>

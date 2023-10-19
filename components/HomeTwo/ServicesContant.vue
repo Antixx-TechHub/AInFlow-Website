@@ -11,11 +11,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">SAP Resources</NuxtLink>
+                            <NuxtLink to="/sap-resources">SAP Resources</NuxtLink>
                         </h3>
                         <p>SAP (Systems, Applications, and Products) is a globally renowned software company that provides a
                             wide range of business solutions designed to streamline operations</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/sap-resources" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -30,11 +30,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">Server Hardening</NuxtLink>
+                            <NuxtLink to="/server-hardning">Server Hardening</NuxtLink>
                         </h3>
                         <p>Server hardening is a crucial system fortification process designed to fortify a server against a
                             myriad of cyber threats by minimizing its attack surface</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/server-hardning" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -49,11 +49,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">SharePoint DMS</NuxtLink>
+                            <NuxtLink to="/sharepointdms">SharePoint DMS</NuxtLink>
                         </h3>
                         <p>In the dynamic realm of modern business, the art of efficient document management has assumed
                             paramount importance. As organizations amass colossal reservoirs</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/sharepointdms" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>

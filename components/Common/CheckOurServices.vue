@@ -21,11 +21,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">AI -ML Integration</NuxtLink>
+                            <NuxtLink to="/aiml-integration">AI -ML Integration</NuxtLink>
                         </h3>
                         <p>A"Integrating Artificial Intelligence (AI) and Machine Learning (ML) into Existing IT Frameworks:
                             Unlocking Opportunities and Navigating Obstacles</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/aiml-integration" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -41,13 +41,13 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">DLP</NuxtLink>
+                            <NuxtLink to="/dlp">DLP</NuxtLink>
                         </h3>
                         <p>Cybersecurity Empowerment: Unveiling Data Loss Prevention (DLP)
                             is your fortress against the unauthorized sharing, transfer, or
                             misuse of sensitive data.
                         </p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/dlp" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -63,11 +63,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">EMS</NuxtLink>
+                            <NuxtLink to="/ems">EMS</NuxtLink>
                         </h3>
                         <p>Unlocking the Road to Organizational Brilliance. In today's dynamic business arena, Enterprise
                             Management Services (EMS).have risen to prominence as indispensable catalysts</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/ems" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -83,11 +83,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">Internet</NuxtLink>
+                            <NuxtLink to="/internet">Internet</NuxtLink>
                         </h3>
                         <p>The internet, often referred to as the "Information Superhighway," is one of the most
                             revolutionary inventions in human history</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/internet" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -103,11 +103,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">Intranet</NuxtLink>
+                            <NuxtLink to="/intranet">Intranet</NuxtLink>
                         </h3>
                         <p>In today's fast-paced business landscape, effective communication and collaboration are essential
                             for an organization's success</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/intranet" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -123,11 +123,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details"> Microsoft Dynamic-365</NuxtLink>
+                            <NuxtLink to="/microsoftsixtyfive"> Microsoft Dynamic-365</NuxtLink>
                         </h3>
                         <p>Dynamics 365: Empowering Business Transformation - Unleash a suite of intelligent business
                             applications designed to supercharge</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/microsoftsixtyfive" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -144,11 +144,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">PowerApp</NuxtLink>
+                            <NuxtLink to="/powerapps">PowerApp</NuxtLink>
                         </h3>
                         <p>Microsoft's Power Apps initiative offers a swift route to create and share potent low-code
                             applications. This comprehensive suite encompasses apps</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/powerapps" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -164,11 +164,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">Microsoft Office 365</NuxtLink>
+                            <NuxtLink to="/microsoftsixtyfive">Microsoft Office 365</NuxtLink>
                         </h3>
                         <p> an era defined by digital transformation, organizations require tools and solutions that
                             facilitate seamless communication, enhance productivity, and foster collaboration</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/microsoftsixtyfive" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -184,11 +184,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details"> PowerFlow</NuxtLink>
+                            <NuxtLink to="/powerflow"> PowerFlow</NuxtLink>
                         </h3>
                         <p>Harnessing the innovative capabilities of our distinctive Lattice Boltzmann-driven physics, the
                             PowerFLOW CFD solution excels in conducting simulations</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/powerflow" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -204,11 +204,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">Staff Augmentation</NuxtLink>
+                            <NuxtLink to="/staff-augumentation">Staff Augmentation</NuxtLink>
                         </h3>
                         <p>Navigating the Shifting Tides of Modern Business: Embracing Staff Augmentation. Amidst the
                             ever-evolving and fiercely competitive business arena of today</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/staff-augumentation" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -224,12 +224,12 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details"> UI Development</NuxtLink>
+                            <NuxtLink to="/ui-development"> UI Development</NuxtLink>
                         </h3>
                         <p>"UI development is the process of programming client-facing interfaces. Like UI design, the UI
                             development process includes writing code for images, animations, sliders, text fields, buttons
                         </p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/ui-development" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -245,11 +245,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/services-details">VAPT</NuxtLink>
+                            <NuxtLink to="/vapt">VAPT</NuxtLink>
                         </h3>
                         <p>Vulnerability Assessment and Penetration Testing (VAPT) is a comprehensive approach to
                             cybersecurity testing that plays a crucial role in safeguarding your organization</p>
-                        <NuxtLink to="/services-details" class="learn-more-btn"><i
+                        <NuxtLink to="/vapt" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>

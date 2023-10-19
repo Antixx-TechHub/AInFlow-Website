@@ -16,7 +16,7 @@
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
                                             <span class="sub-title"> AinFlow</span>
-                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
@@ -50,7 +50,7 @@
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
                                             <span class="sub-title"> AinFlow</span>
-                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
@@ -84,7 +84,7 @@
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
                                             <span class="sub-title"> AinFlow</span>
-                                            <h1>Seamlessly with processes within Your Organization for maximum productivity</h1>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel

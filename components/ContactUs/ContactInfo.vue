@@ -11,7 +11,7 @@
                             <i class='bx bx-map'></i>
                         </div>
                         <h3>Our Address</h3>
-                        <p>Navi Mumbai,(Maharastra)</p>
+                        <p>B702, Bhoomi Paradise, Sector 11, Sanpada Navimumbai, 400705</p>
                     </div>
                 </div>
 

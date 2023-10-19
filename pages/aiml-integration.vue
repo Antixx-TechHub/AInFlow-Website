@@ -1,11 +1,12 @@
 <template>
     <div>
         <NavbarStyleFour />
-        <PageTitle pageTitle="AIML Integration" />
+        <PageTitle pageTitle="AI-ML Integration" />
         <CreativeSolutions />
         <CoreBusiness />
+        <WhyChooseUsAIML />
         <GetFreeAnalysis />
-        <StartYourProjectWithUs />
+        <!-- <StartYourProjectWithUs /> -->
         <Footer />
     </div>
 </template>
@@ -16,7 +17,8 @@
     import CreativeSolutions from '../components/AIMLIntegration/CreativeSolutions'
     import CoreBusiness from '../components/AIMLIntegration/CoreBusiness'
     import GetFreeAnalysis from '../components/AIMLIntegration/GetFreeAnalysis'
-    import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
+    import WhyChooseUsAIML from '../components/AIMLIntegration/WhyChooseUsAIML'
+    // import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
     import Footer from '../layouts/Footer'
 
     export default {
@@ -26,7 +28,8 @@
             CreativeSolutions,
             CoreBusiness,
             GetFreeAnalysis,
-            StartYourProjectWithUs,
+            WhyChooseUsAIML,
+            // StartYourProjectWithUs,
             Footer,
         }
     }

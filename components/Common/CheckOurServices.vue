@@ -14,7 +14,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/AI--ML-Integration.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -34,7 +34,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-keywords"></i>
+                            <img src="~/assets/images/DLP.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -56,7 +56,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content-management"></i>
+                            <img src="~/assets/images/EMS.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -76,7 +76,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-ppc"></i>
+                            <img src="~/assets/images/Internet.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-competitor"></i>
+                            <img src="~/assets/images/Intranet.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -116,7 +116,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-startup"></i>
+                            <img src="~/assets/images/Microsoft-Dynamic-365.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -136,8 +136,8 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
-                        <div class="icon">
-                            <i class="flaticon-ppc"></i>
+                        <div class="icon">                            
+                            <img src="~/assets/images/PowerApp.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -157,7 +157,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-competitor"></i>
+                            <img src="~/assets/images/Microsoft-Office-365a.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -177,7 +177,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-startup"></i>
+                            <img src="~/assets/images/Powerflow.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

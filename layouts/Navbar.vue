@@ -36,9 +36,9 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/dlp" class="nav-link">DLP</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/fno" class="nav-link">FNO</NuxtLink>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <NuxtLink to="/powerapps" class="nav-link">PowerApps</NuxtLink>
                                     </li>
@@ -51,15 +51,15 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/intranet" class="nav-link">Intranet</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/internet" class="nav-link">Internet</NuxtLink>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <NuxtLink to="/ems" class="nav-link">EMS</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/powerflow" class="nav-link">PowerFlow</NuxtLink>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <NuxtLink to="/ui-development" class="nav-link">UI Development</NuxtLink>
                                     </li>

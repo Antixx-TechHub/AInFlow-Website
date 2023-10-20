@@ -5,31 +5,62 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="privacy-policy-content">
                         <img src="~/assets/images/blog/blog-img2.jpg" alt="image">
-                        <p><i>This Privacy Policy was last updated on January 1, 2021.</i></p>
-                        <h3>1. What Data We Get</h3>
+                        <p><i>This Privacy Policy was last updated on October 15, 2023.</i></p>
+                        <h3>What Data We Get</h3>
                         <blockquote class="blockquote">
-                            <p>We collect certain data from you directly, like information you enter yourself, data about your participation in courses, and data from third-party platforms you connect with <strong>Rivate</strong>. We also collect some data automatically, like information about your device and what parts of our Services you interact with or spend time using.</p>
+                            <p>Welcome to the AInFlow website, where we value your privacy and security. Our commitment is
+                                to ensure that you, our valued visitors, fully understand how AInFlow handles and safeguards
+                                your information when you engage with us. By using this website, you are indicating your
+                                agreement to abide by our comprehensive policies, which encompass our Privacy Policy,
+                                Cookies Policy, Terms and Conditions, and Refund/Return Policy, among others.</p>
                         </blockquote>
-                        <h3>2. Data You Provide to Us</h3>
-                        <p>We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect.</p>
-                        <h3>3. How We Get Data About You</h3>
-                        <p>We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection.</p>
-                        <h3>4. What We Use Your Data For</h3>
+                        <p>Please be aware that we retain the right to modify these policies at any time without prior
+                            notice. We urge you to familiarize yourself with our policy provisions, as it is your
+                            responsibility to do so. If you have any questions or concerns, our experts are available to
+                            assist you at +91-99208 28780, +91-93228 34970 or via email at info@ainflow.co.in</p>
+                        <p>For the best interests of our visitors, we strongly recommend that you review our Privacy Policy
+                            each time you visit www.ainflow.co.in to stay informed of any updates made by AInFlow.</p>
+                        <h5>At AInFlow, we collect user data to continually enhance the quality of our services. This may
+                            include, but is not limited to, the following user data:</h5>
                         <ol>
-                            <li>Responding to your questions and concerns;</li>
-                            <li>Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;</li>
-                            <li>Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the “options” or “settings” page of the mobile app);</li>
+                            <li>IP address</li>
+                            <li>Contact information</li>
+                            <li>Email address</li>
+                            <li>Preferences </li>
+                            <li>Personal interests</li>
+                            <li>Online behavior to gather information and improve our offerings </li>
+
                         </ol>
-                        <h3>5. Your Choices About the Use of Your Data</h3>
-                        <p>You can choose not to provide certain data to us, but you may not be able to use certain features of the Services.</p>
+                        <h3>We may collect user data for various purposes, such as:</h3>
                         <ul>
-                            <li>To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.</li>
-                            <li>The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe’s LSOs through their Website Storage Settings panel.</li>
-                            <li>To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you’re located in the European Union, visit the Your Online Choices site. To opt out of Google’s display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola’s targeted ads, see the Opt-out Link in their Cookie Policy.</li>
-                            <li>To update data you provide directly, log into your account and update your account at any time.</li>
+                            <li>Understanding and addressing user needs more effectively</li>
+                            <li>Enhancing our product line and support services</li>
+                            <li>Sending promotional emails to keep our clients informed about the latest developments in
+                                their fields of interest
+                                Periodically sharing information relevant to you</li>
+                            <li>Conducting virtual surveys</li>
+                            <li> Inviting participation in quality monitoring surveys and market research campaigns</li>
+                            <li>Optimizing the features and functionalities of our website, tailored to your online
+                                behaviors and preferences </li>
                         </ul>
-                        <h3>6. Our Policy Concerning Children</h3>
-                        <p>We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children’s online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we’ve collected personal data from a child under those ages, we will take reasonable steps to delete it.</p>
+                        <h3>Data Security</h3>
+                        <p>AInFlow is committed to implementing robust security measures to safeguard your stored
+                            information and protect it against potential vulnerabilities. We adhere to industry-best
+                            policies and workflows to maintain the confidentiality of your data and employ state-of-the-art
+                            techniques to prevent data theft and unauthorized access.</p>
+                        <h3>Links to Other Websites</h3>
+                        <p>Our website may contain external links to other websites, which may redirect you to other
+                            business sites. It's important to note that AInFlow is not responsible for the security, privacy
+                            protection, or content policies of these external websites. Visiting linked websites is subject
+                            to their respective policies and not governed by our business practices. </p>
+                        <h3>Sharing Personal Data </h3>
+                        <p>We respect your right to control the storage and use of your personal information. If you
+                            previously consented to sharing your information but have since changed your preference, please
+                            reach out to us via email, and our technical experts will make the necessary adjustments
+                            accordingly. Rest assured, we do not distribute, lease, or sell your personal information to
+                            third parties without your explicit consent, except when required by law. Your information may
+                            be used for marketing, mailing, updates, and promotional purposes, all in line with our
+                            commitment to maintaining your privacy and security. </p>
                     </div>
                 </div>
 
@@ -37,10 +68,18 @@
                     <aside class="widget-area">
                         <section class="widget widget_insight">
                             <ul>
-                                <li><NuxtLink to="/about-us">About Us</NuxtLink></li>
-                                <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
-                                <li class="active"><NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink></li>
-                                <li><NuxtLink to="/terms-of-service">Terms of Service</NuxtLink></li>
+                                <li>
+                                    <NuxtLink to="/about-us">About Us</NuxtLink>
+                                </li>
+                                <li>
+                                    <NuxtLink to="/contact-us">Contact Us</NuxtLink>
+                                </li>
+                                <li class="active">
+                                    <NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink>
+                                </li>
+                                <li>
+                                    <NuxtLink to="/terms-of-service">Terms of Service</NuxtLink>
+                                </li>
                             </ul>
                         </section>
                     </aside>

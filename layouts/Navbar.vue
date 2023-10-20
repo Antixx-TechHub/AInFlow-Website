@@ -20,17 +20,12 @@
                             </li>
 
                             <li class="nav-item">
-                                <NuxtLink to="" class="nav-link">Company</NuxtLink>
-                                <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
-                                    </li>
-                                    <li class="nav-item"><a href="team" class="nav-link">Team</a>
-                                    </li>
-                                </ul>
+                                <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                             </li>
 
-                            <li class="nav-item"><a href="services" class="nav-link">Services</a>
+                            <li class="nav-item">
+                                <!-- <a href="" class="nav-link">Services</a> -->
+                                <NuxtLink to="" class="nav-link">Services</NuxtLink>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <NuxtLink to="/power-bi" class="nav-link">PowerBi</NuxtLink>
@@ -94,9 +89,9 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/blogs" class="nav-link">Blogs</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/glossaries" class="nav-link">Glossaries</NuxtLink>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item">
                                         <NuxtLink to="/success-stories" class="nav-link">Success Story</NuxtLink>
                                     </li>

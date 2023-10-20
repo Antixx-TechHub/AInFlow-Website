@@ -25,7 +25,7 @@
 
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget pl-5">
-                        <h3>Explore</h3>
+                        <h3>Quicklinks</h3>
 
                         <ul class="footer-links-list">
                             <li>
@@ -43,6 +43,9 @@
                             <li>
                                 <NuxtLink to="/contact-us">Contact</NuxtLink>
                             </li>
+                            <li>
+                                <NuxtLink to="/carrers">Carrer</NuxtLink>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -56,9 +59,6 @@
                                 <NuxtLink to="/team">Team</NuxtLink>
                             </li>
                             <li>
-                                <NuxtLink to="/contact-us">Contact</NuxtLink>
-                            </li>
-                            <li>
                                 <NuxtLink to="/services">Services</NuxtLink>
                             </li>
                             <!-- <li>
@@ -66,6 +66,12 @@
                             </li> -->
                             <li>
                                 <NuxtLink to="/blogs">Blog</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/success-stories">Success Story</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/case-studies">Case Study</NuxtLink>
                             </li>
                         </ul>
                     </div>
@@ -76,12 +82,12 @@
                         <h3>Address</h3>
 
                         <ul class="footer-contact-info">
-                            <li><i class='bx bx-map'></i>B702, Bhoomi Paradise, Sector 11 Sanpada, Navi Mumbai, 400705
+                            <li><i class='bx bx-map'></i>B702, Bhoomi Paradise, Sector 11 Sanpada, Navi Mumbai, 400705.
                             </li>
-                            <li><i class='bx bx-phone-call'></i><a href="tel:+11234567890">+91-9920828780 </a></li>
                             <li><i class='bx bx-envelope'></i><a href="mailto:hello@rivate.com">ainash@ainflow.co.in</a>
                             </li>
-                            <li><i class='bx bxs-inbox'></i><a href="tel:+557854578964">+91-9322834970</a></li>
+                            <li><i class='bx bx-phone-call'></i><a href="tel:+91-99208 28780">+91-99208 28780 </a>, <a
+                                    href="tel:+91-93228 34970">+91-93228 34970 </a></li>
                         </ul>
                     </div>
                 </div>
@@ -90,7 +96,8 @@
             <div class="footer-bottom-area">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
-                        <p><i class='bx bx-copyright'></i> <strong>Your Site AINFLOW</strong> All Rights Reserved.</p>
+                        <p><i class='bx bx-copyright'></i> <strong>AINFLOW</strong> Copyright 2023 – All Rights Reserved.
+                        </p>
                     </div>
 
                     <div class="col-lg-6 col-md-6">

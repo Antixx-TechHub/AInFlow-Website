@@ -1,6 +1,6 @@
 <template>
     <div class="widget-area">
-        <div class="widget widget_search">
+        <!-- <div class="widget widget_search">
             <h3 class="widget-title">Search</h3>
 
             <form class="search-form">
@@ -10,7 +10,7 @@
                 </label>
                 <button type="submit"><i class="bx bx-search-alt"></i></button>
             </form>
-        </div>
+        </div> -->
 
         <div class="widget widget_posts_thumb">
             <h3 class="widget-title">Popular Posts</h3>

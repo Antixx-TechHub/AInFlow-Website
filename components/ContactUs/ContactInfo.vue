@@ -11,7 +11,7 @@
                             <i class='bx bx-map'></i>
                         </div>
                         <h3>Our Address</h3>
-                        <p>B702, Bhoomi Paradise, Sector 11, Sanpada Navimumbai, 400705</p>
+                        <p>B702, Bhoomi Paradise, Sector 11, Sanpada Navimumbai, 400705.</p>
                     </div>
                 </div>
 
@@ -24,7 +24,7 @@
                             <i class='bx bx-phone-call'></i>
                         </div>
                         <h3>Contact</h3>
-                        <p>Mobile: <a href="tel:+44457895789">+91-9920828770</a></p>
+                        <p>Mobile: <a href="tel:+91-99208 28770">+91-99208 28770</a></p>
                         <p>E-mail: <a href="mailto:hello@rivate.com">ainash@ainflow.co.in</a></p>
                     </div>
                 </div>

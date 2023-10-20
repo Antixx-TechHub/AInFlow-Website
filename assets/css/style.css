@@ -132,6 +132,7 @@ p {
   font-size: var(--fontSize);
   margin-bottom: 15px;
   line-height: 1.8;
+  text-align: justify;
 }
 
 p:last-child {

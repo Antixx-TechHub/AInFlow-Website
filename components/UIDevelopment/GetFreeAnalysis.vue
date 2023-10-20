@@ -10,9 +10,10 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-form">
-                        <span class="sub-title">Analysis</span>
-                        <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span class="sub-title">UI Development</span>
+                        <h2>Conclusion</h2>
+                        <p>Elevate your digital presence with AInFlow. Our UI development services combine innovative design, user-centric approaches, and cutting-edge technology to ensure your digital product is both visually stunning and highly functional. Choose us for responsive, accessible, and expertly-crafted user interfaces. Contact us today to start your UI development journey.</p>
+                        <p>Contact us today to discuss your UI development needs and how we can help you create a user-friendly and visually appealing digital presence.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

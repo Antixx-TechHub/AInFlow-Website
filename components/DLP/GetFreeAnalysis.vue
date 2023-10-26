@@ -10,9 +10,9 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-form">
-                        <span class="sub-title">Analysis</span>
-                        <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span class="sub-title">DLP</span>
+                        <h2>Contact US</h2>
+                        <p>Protect your sensitive information with our comprehensive Data Loss Prevention services. Contact us today to learn more about how we can safeguard your data and provide you with peace of mind.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

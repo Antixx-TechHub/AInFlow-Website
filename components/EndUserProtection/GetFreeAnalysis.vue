@@ -11,8 +11,9 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-form">
                         <span class="sub-title">Analysis</span>
-                        <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h2>Stay Informed, Stay Safe</h2>
+                        <p>In a constantly evolving digital landscape, staying informed and proactive is your best defense. End user protection is not just a choice; it's a responsibility. By adopting the right strategies and tools, you can confidently navigate the digital world while protecting your digital identity and assets.</p>
+                        <p>Join us in the journey to safeguard your digital world. Explore our resources, ask questions, and share your insights to empower yourself and others in the realm of end user protection. </p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

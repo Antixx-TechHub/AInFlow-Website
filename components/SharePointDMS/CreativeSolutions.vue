@@ -4,17 +4,9 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content">
-                        <span class="sub-title">Digital Marketing</span>
-                        <h2>Creative Solutions, Creative Results</h2>
-                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
-                        <div class="features-text">
-                            <h4>Core Development</h4>
-                            <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                        </div>
-                        <div class="features-text">
-                            <h4>Define Your Choices</h4>
-                            <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
-                        </div>
+                        <span class="sub-title">SharePoint DMS</span>
+                        <h2>Introduction</h2>
+                        <p>At AInFlow, we offer a comprehensive Document Management Solution (DMS) built on the powerful SharePoint platform. Our mission is to streamline and optimize your document management processes, making your business more efficient, organized, and collaborative. With our SharePoint DMS services, you can harness the full potential of SharePoint to manage, store, and share your documents securely.</p>
                     </div>
                 </div>
 
@@ -25,7 +17,7 @@
                 </div>
             </div>
 
-            <div class="overview-box">
+            <!-- <div class="overview-box">
                 <div class="overview-image">
                     <div class="image">
                         <img src="~/assets/images/services/services-img2.png" alt="image">
@@ -47,7 +39,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </template>

@@ -10,9 +10,10 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-form">
-                        <span class="sub-title">Analysis</span>
-                        <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span class="sub-title">Intranet</span>
+                        <h2>Conclusion</h2>
+                        <p>Choosing AInFlow for your intranet solutions is not just a choice; it's an investment in the future of your organization. With our tailor-made, secure, and scalable intranet solutions, you can transform the way your business operates, fostering enhanced communication, collaboration, and efficiency.</p>
+                        <p>Our dedicated team of experts is ready to partner with you, providing ongoing support, ensuring your intranet platform continues to meet your needs as your business grows. We invite you to join the ranks of satisfied clients who have experienced the positive impact of our intranet solutions. </p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

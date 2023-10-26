@@ -10,9 +10,9 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-form">
-                        <span class="sub-title">Analysis</span>
-                        <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <span class="sub-title">EMS</span>
+                        <h2>Contact Us</h2>
+                        <p>Ready to take your enterprise to the next level? Contact us today to discuss your specific needs and find out how EMS can help you achieve your business objectives.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

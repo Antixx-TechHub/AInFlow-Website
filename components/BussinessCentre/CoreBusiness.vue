@@ -102,7 +102,7 @@
                 </div>
             </div>
 
-            <div class="section-title">
+            <div class="section-title pt-100">
                 <span class="sub-title">Bussiness Center</span>
                 <h2>Why Choose Us</h2>
             </div>

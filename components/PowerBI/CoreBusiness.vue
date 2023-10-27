@@ -77,7 +77,7 @@
                     </div>
                 </div>
 
-                <div class="section-title">
+                <div class="section-title pt-100">
                 <span class="sub-title">AInFlow</span>
                 <h2>Who Benefits from Power BI?</h2>
             </div>

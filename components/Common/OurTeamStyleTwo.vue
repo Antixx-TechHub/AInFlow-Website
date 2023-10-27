@@ -4,7 +4,6 @@
             <div class="section-title">
                 <span class="sub-title">Our Team</span>
                 <h2>We Help to Achieve Your Business Goal</h2>
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
             </div>
 
             <div class="team-slides owl-carousel owl-theme" v-if="teams !== null">

@@ -13,11 +13,14 @@
                         <div class="text">
                             <span class="sub-title">About Us</span>
                             <h2>Enjoy Full-Service Digital Marketing Expertise</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.</p>
+                            <p>At AInFlow Solutions, we are passionate about IT management and Technology integration to serve businesses with profound solutions. We understand the importance of Return on Investment and hence partnering with AInFlow delivers the value that your business is looking from technology engagements. AInFlow is a team of technology experts with 15+ years of excellent track record in Windows Server Infrastructure, Office 365 & Azure Cloud Services and technology consulting. AInFlow’s team is certified on</p>
                             <ul class="features-list">
-                                <li><i class="flaticon-speed"></i> Learn new skills with our bite-sized video tutorials, then test your knowledge with a quick quiz.</li>
-                                <li><i class="flaticon-speed"></i> Over 300,000 people have already gained this qualification, and are using it to develop and improve their careers.</li>
-                                <li><i class="flaticon-speed"></i> In this introduction to Analytics, we'll show you how to collect and analyse user data and turn it into actionable insights.</li>
+                                <li><i class="flaticon-speed"></i> Microsoft® Certified Solutions Associate: Office 365</li>
+                                <li><i class="flaticon-speed"></i> VMware Certified Advanced Professional</li>
+                                <li><i class="flaticon-speed"></i> Oracle database Services</li> 
+                                <li><i class="flaticon-speed"></i> Server & Storage, Networking & End user computing</li>
+                                <li><i class="flaticon-speed"></i> We continually work with you to understand how to improve your internal processes with industry best </li>
+                                <li><i class="flaticon-speed"></i> practices and to optimize your costs by improving your productivity. </li>
                             </ul>
                         </div>
                     </div>

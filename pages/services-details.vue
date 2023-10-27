@@ -5,7 +5,7 @@
         <CreativeSolutions />
         <CoreBusiness />
         <GetFreeAnalysis />
-        <OurFlexiblePricingPlan />
+        <!-- <OurFlexiblePricingPlan /> -->
         <StartYourProjectWithUs />
         <Footer />
     </div>
@@ -18,7 +18,7 @@
     import CoreBusiness from '../components/ServicesDetails/CoreBusiness'
     import GetFreeAnalysis from '../components/ServicesDetails/GetFreeAnalysis'
     import OurFlexiblePricingPlan from '../components/Common/OurFlexiblePricingPlan'
-    import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
+    // import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
     import Footer from '../layouts/Footer'
 
     export default {
@@ -29,7 +29,7 @@
             CoreBusiness,
             GetFreeAnalysis,
             OurFlexiblePricingPlan,
-            StartYourProjectWithUs,
+            // StartYourProjectWithUs,
             Footer,
         }
     }

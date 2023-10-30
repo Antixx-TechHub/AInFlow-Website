@@ -12,9 +12,14 @@
                     <div class="analysis-form">
                         <span class="sub-title">Analysis</span>
                         <h2>Get Free SEO Analysis</h2>
-                        <p>Transform the way your organization manages documents with SharePoint DMS. Take control of your data, enhance collaboration, and drive productivity. Contact us today to learn more about how SharePoint DMS can benefit your business</p>
+                        <p>Transform the way your organization manages documents with SharePoint DMS. Take control of your
+                            data, enhance collaboration, and drive productivity. Contact us today to learn more about how
+                            SharePoint DMS can benefit your business</p>
                         <h2>Conclusion</h2>
-                        <p>SharePoint DMS is your key to efficient, secure, and collaborative document management. With our tailored solutions, you can streamline your document-related processes, improve productivity, and ensure data security. Let us help you harness the power of SharePoint for your document management needs, so you can focus on what matters most – your business's success.</p>
+                        <p>SharePoint DMS is your key to efficient, secure, and collaborative document management. With our
+                            tailored solutions, you can streamline your document-related processes, improve productivity,
+                            and ensure data security. Let us help you harness the power of SharePoint for your document
+                            management needs, so you can focus on what matters most – your business's success.</p>
                         <form>
                             <!-- <div class="row">
                                 <div class="col-lg-6 col-md-6">

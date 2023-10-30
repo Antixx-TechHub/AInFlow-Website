@@ -12,8 +12,12 @@
                     <div class="analysis-form">
                         <span class="sub-title">UI Development</span>
                         <h2>Conclusion</h2>
-                        <p>Elevate your digital presence with AInFlow. Our UI development services combine innovative design, user-centric approaches, and cutting-edge technology to ensure your digital product is both visually stunning and highly functional. Choose us for responsive, accessible, and expertly-crafted user interfaces. Contact us today to start your UI development journey.</p>
-                        <p>Contact us today to discuss your UI development needs and how we can help you create a user-friendly and visually appealing digital presence.</p>
+                        <p>Elevate your digital presence with AInFlow. Our UI development services combine innovative
+                            design, user-centric approaches, and cutting-edge technology to ensure your digital product is
+                            both visually stunning and highly functional. Choose us for responsive, accessible, and
+                            expertly-crafted user interfaces. Contact us today to start your UI development journey.</p>
+                        <p>Contact us today to discuss your UI development needs and how we can help you create a
+                            user-friendly and visually appealing digital presence.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
@@ -24,13 +28,15 @@
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="your_email" placeholder="Email" required>
+                                        <input type="email" class="form-control" id="your_email" placeholder="Email"
+                                            required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number" required>
+                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number"
+                                            required>
                                     </div>
                                 </div>
 

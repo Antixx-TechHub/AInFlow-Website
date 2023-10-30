@@ -17,7 +17,9 @@
                             </div>
                         </div>
                         <h3>Informative Content</h3>
-                        <p>We provide a centralized repository for all your documents, ensuring easy access, storage, and retrieval.Implement folder structures, metadata tagging, and document version control for improved organization.</p>
+                        <p>We provide a centralized repository for all your documents, ensuring easy access, storage, and
+                            retrieval.Implement folder structures, metadata tagging, and document version control for
+                            improved organization.</p>
                     </div>
                 </div>
 
@@ -31,7 +33,8 @@
                             </div>
                         </div>
                         <h3>Collaborative Workspaces</h3>
-                        <p>Create collaborative workspaces where teams can work together on projects, share documents, and communicate seamlessly.Foster teamwork, enhance productivity, and reduce email clutter.</p>
+                        <p>Create collaborative workspaces where teams can work together on projects, share documents, and
+                            communicate seamlessly.Foster teamwork, enhance productivity, and reduce email clutter.</p>
                     </div>
                 </div>
 
@@ -45,7 +48,9 @@
                             </div>
                         </div>
                         <h3>Document Security</h3>
-                        <p>Ensure document security with customizable permission settings, document-level security, and audit trails.Safeguard sensitive information and maintain compliance with data protection regulations.</p>
+                        <p>Ensure document security with customizable permission settings, document-level security, and
+                            audit trails.Safeguard sensitive information and maintain compliance with data protection
+                            regulations.</p>
                     </div>
                 </div>
 
@@ -59,7 +64,9 @@
                             </div>
                         </div>
                         <h3>Search and Retrieval</h3>
-                        <p>Our powerful search capabilities make it effortless to find the documents you need quickly.Utilize advanced search features, including filters, full-text search, and metadata queries.</p>
+                        <p>Our powerful search capabilities make it effortless to find the documents you need
+                            quickly.Utilize advanced search features, including filters, full-text search, and metadata
+                            queries.</p>
                     </div>
                 </div>
 
@@ -73,7 +80,8 @@
                             </div>
                         </div>
                         <h3>Workflow Automation</h3>
-                        <p>Automate document approval processes, notifications, and task assignments to save time and reduce human error.Enhance efficiency with custom workflows tailored to your business needs.</p>
+                        <p>Automate document approval processes, notifications, and task assignments to save time and reduce
+                            human error.Enhance efficiency with custom workflows tailored to your business needs.</p>
                     </div>
                 </div>
 
@@ -87,7 +95,8 @@
                             </div>
                         </div>
                         <h3>Version Control</h3>
-                        <p>Keep track of document versions, revisions, and changes. Easily revert to previous versions and prevent data loss.</p>
+                        <p>Keep track of document versions, revisions, and changes. Easily revert to previous versions and
+                            prevent data loss.</p>
                     </div>
                 </div>
 
@@ -101,7 +110,8 @@
                             </div>
                         </div>
                         <h3>Mobile Accessibility</h3>
-                        <p>Access your documents on the go with SharePoint DMS mobile apps. Stay productive, even when you're away from your desk.</p>
+                        <p>Access your documents on the go with SharePoint DMS mobile apps. Stay productive, even when
+                            you're away from your desk.</p>
                     </div>
                 </div>
 
@@ -115,7 +125,8 @@
                             </div>
                         </div>
                         <h3>Integration</h3>
-                        <p>Seamlessly integrate SharePoint DMS with other business tools and applications. Maximize the value of your existing software investments.</p>
+                        <p>Seamlessly integrate SharePoint DMS with other business tools and applications. Maximize the
+                            value of your existing software investments.</p>
                     </div>
                 </div>
             </div>
@@ -136,7 +147,8 @@
                             </div>
                         </div>
                         <h3>Expertise</h3>
-                        <p>Our team consists of SharePoint experts who understand the platform inside and out, ensuring that you get the most out of your DMS.</p>
+                        <p>Our team consists of SharePoint experts who understand the platform inside and out, ensuring that
+                            you get the most out of your DMS.</p>
                     </div>
                 </div>
 
@@ -150,7 +162,8 @@
                             </div>
                         </div>
                         <h3>Customization</h3>
-                        <p>We tailor SharePoint DMS to your specific business requirements, providing a solution that fits your unique needs.</p>
+                        <p>We tailor SharePoint DMS to your specific business requirements, providing a solution that fits
+                            your unique needs.</p>
                     </div>
                 </div>
 
@@ -164,7 +177,8 @@
                             </div>
                         </div>
                         <h3>Scalability</h3>
-                        <p>Whether you're a small business or an enterprise, our SharePoint DMS can grow with you, adapting to changing demands.</p>
+                        <p>Whether you're a small business or an enterprise, our SharePoint DMS can grow with you, adapting
+                            to changing demands.</p>
                     </div>
                 </div>
 
@@ -178,7 +192,8 @@
                             </div>
                         </div>
                         <h3>Support and Training</h3>
-                        <p>We offer ongoing support and training to ensure your team is comfortable and confident using SharePoint DMS.</p>
+                        <p>We offer ongoing support and training to ensure your team is comfortable and confident using
+                            SharePoint DMS.</p>
                     </div>
                 </div>
 
@@ -192,13 +207,13 @@
                             </div>
                         </div>
                         <h3>Cost-Effective</h3>
-                        <p>SharePoint DMS offers a cost-effective solution for document management, reducing the need for expensive third-party systems.</p>
-                    </div>
+                    <p>SharePoint DMS offers a cost-effective solution for document management, reducing the need for
+                        expensive third-party systems.</p>
                 </div>
             </div>
         </div>
     </div>
-</template>
+</div></template>
 
 <script>
 

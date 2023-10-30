@@ -12,9 +12,15 @@
                     <div class="analysis-form">
                         <span class="sub-title">VAPT</span>
                         <h2>Get Free VAPT Analysis</h2>
-                        <p>Don't wait until a security breach happens. Protect your organization's valuable assets and reputation with our VAPT services. Contact us today to schedule a consultation and take the first step towards a more secure digital future.</p>
+                        <p>Don't wait until a security breach happens. Protect your organization's valuable assets and
+                            reputation with our VAPT services. Contact us today to schedule a consultation and take the
+                            first step towards a more secure digital future.</p>
                         <h2>Conclusion </h2>
-                        <p> At AInFlow, we are committed to providing you with comprehensive VAPT services that go beyond traditional cybersecurity measures. Our team of experts is dedicated to helping you strengthen your security posture, identify vulnerabilities, and protect your organization from ever-evolving cyber threats. With a tailored approach, industry expertise, and a focus on proactive security, we are your trusted partner in safeguarding your digital assets.</p>
+                        <p> At AInFlow, we are committed to providing you with comprehensive VAPT services that go beyond
+                            traditional cybersecurity measures. Our team of experts is dedicated to helping you strengthen
+                            your security posture, identify vulnerabilities, and protect your organization from
+                            ever-evolving cyber threats. With a tailored approach, industry expertise, and a focus on
+                            proactive security, we are your trusted partner in safeguarding your digital assets.</p>
                         <!-- <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">

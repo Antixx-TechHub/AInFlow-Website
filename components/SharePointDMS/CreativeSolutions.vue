@@ -6,7 +6,11 @@
                     <div class="content">
                         <span class="sub-title">SharePoint DMS</span>
                         <h2>Introduction</h2>
-                        <p>At AInFlow, we offer a comprehensive Document Management Solution (DMS) built on the powerful SharePoint platform. Our mission is to streamline and optimize your document management processes, making your business more efficient, organized, and collaborative. With our SharePoint DMS services, you can harness the full potential of SharePoint to manage, store, and share your documents securely.</p>
+                        <p>At AInFlow, we offer a comprehensive Document Management Solution (DMS) built on the powerful
+                            SharePoint platform. Our mission is to streamline and optimize your document management
+                            processes, making your business more efficient, organized, and collaborative. With our
+                            SharePoint DMS services, you can harness the full potential of SharePoint to manage, store, and
+                            share your documents securely.</p>
                     </div>
                 </div>
 

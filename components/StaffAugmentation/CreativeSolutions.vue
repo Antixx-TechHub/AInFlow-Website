@@ -6,14 +6,17 @@
                     <div class="content">
                         <span class="sub-title">Digital Marketing</span>
                         <h2>Creative Solutions, Creative Results</h2>
-                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer
+                            experience are the heart of successful communication.</p>
                         <div class="features-text">
                             <h4>Core Development</h4>
-                            <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                            <p>No fake products and services. The customer is king, their lives and needs are the
+                                inspiration.</p>
                         </div>
                         <div class="features-text">
                             <h4>Define Your Choices</h4>
-                            <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>
+                            <p>No fake products and services. The customer is king, their lives and needs are the
+                                inspiration.</p>
                         </div>
                     </div>
                 </div>
@@ -31,12 +34,13 @@
                         <img src="~/assets/images/services/services-img2.png" alt="image">
                     </div>
                 </div>
-                
+
                 <div class="overview-content">
                     <div class="content right-content">
                         <span class="sub-title">Social Media Marketing</span>
                         <h2>Solving Problems, Building Brands</h2>
-                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer experience are the heart of successful communication.</p>
+                        <p>We believe brand interaction is key in communication. Real innovations and a positive customer
+                            experience are the heart of successful communication.</p>
                         <ul class="features-list">
                             <li><span><i class='bx bx-check'></i> Recommender Systems</span></li>
                             <li><span><i class='bx bx-check'></i> Demand Prediction</span></li>

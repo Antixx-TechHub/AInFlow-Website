@@ -193,14 +193,15 @@
                                 <div class="circle-two"></div>
                             </div>
                         </div>
-                    <h3>Supportive Community</h3>
-                    <p>Join a vibrant community of like-minded professionals at Navi Mumbai. Our business center
-                        facilitates networking, collaboration, and the exchange of ideas.</p>
+                        <h3>Supportive Community</h3>
+                        <p>Join a vibrant community of like-minded professionals at Navi Mumbai. Our business center
+                            facilitates networking, collaboration, and the exchange of ideas.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div></template>
+</template>
 
 <script>
 

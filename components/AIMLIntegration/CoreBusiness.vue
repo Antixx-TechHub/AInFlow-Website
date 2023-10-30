@@ -18,7 +18,9 @@
                             </div>
                         </div>
                         <h3>Scalable and Secure Solutions</h3>
-                        <p> Our AI-ML integration solutions are built with scalability and security in mind. Whether you operate a small startup or a large enterprise, our services are designed to grow with your business while ensuring your data remains protected.</p>
+                        <p> Our AI-ML integration solutions are built with scalability and security in mind. Whether you
+                            operate a small startup or a large enterprise, our services are designed to grow with your
+                            business while ensuring your data remains protected.</p>
                     </div>
                 </div>
 
@@ -32,7 +34,9 @@
                             </div>
                         </div>
                         <h3>Custom AI Solutions</h3>
-                        <p>We design and develop custom AI solutions to address your unique business challenges. From recommendation engines that enhance user experiences to predictive maintenance solutions that reduce downtime, we create AI systems that drive value for your organization.</p>
+                        <p>We design and develop custom AI solutions to address your unique business challenges. From
+                            recommendation engines that enhance user experiences to predictive maintenance solutions that
+                            reduce downtime, we create AI systems that drive value for your organization.</p>
                     </div>
                 </div>
 
@@ -46,7 +50,9 @@
                             </div>
                         </div>
                         <h3>Data-Driven Decision Making</h3>
-                        <p>Harness the power of your data with our AI-ML integration services. We help you collect, analyze, and gain valuable insights from your data, empowering you to make informed decisions and optimize your operations.</p>
+                        <p>Harness the power of your data with our AI-ML integration services. We help you collect, analyze,
+                            and gain valuable insights from your data, empowering you to make informed decisions and
+                            optimize your operations.</p>
                     </div>
                 </div>
 
@@ -60,7 +66,10 @@
                             </div>
                         </div>
                         <h3> AI-ML Integration Services</h3>
-                        <p> Our core competency lies in seamlessly integrating AI and ML technologies into your existing systems and processes. Whether it's predictive analytics, natural language processing, or computer vision, we make AI and ML work cohesively with your data, offering actionable insights and automating complex tasks. </p>
+                        <p> Our core competency lies in seamlessly integrating AI and ML technologies into your existing
+                            systems and processes. Whether it's predictive analytics, natural language processing, or
+                            computer vision, we make AI and ML work cohesively with your data, offering actionable insights
+                            and automating complex tasks. </p>
                     </div>
                 </div>
 
@@ -74,13 +83,14 @@
                             </div>
                         </div>
                         <h3>Continuous Improvement</h3>
-                        <p>AI and ML are ever-evolving fields. We stay at the forefront of these technologies, ensuring that your integrated solutions remain up-to-date and continue to deliver superior performance. Our team is dedicated to refining and optimizing your systems.</p>
+                        <p>AI and ML are ever-evolving fields. We stay at the forefront of these technologies, ensuring that
+                            your integrated solutions remain up-to-date and continue to deliver superior performance. Our
+                            team is dedicated to refining and optimizing your systems.</p>
                     </div>
                 </div>
             </div>
-        </div>
     </div>
-</template>
+</div></template>
 
 <script>
 

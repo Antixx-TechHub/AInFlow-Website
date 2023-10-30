@@ -4,7 +4,8 @@
             <div class="section-title">
                 <span class="sub-title">Digital Marketing</span>
                 <h2>Core Business Areas</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna.</p>
             </div>
 
             <div class="row">
@@ -18,7 +19,8 @@
                             </div>
                         </div>
                         <h3>Informative Content</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
 
@@ -32,7 +34,8 @@
                             </div>
                         </div>
                         <h3>Visitor Growth</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
 
@@ -46,7 +49,8 @@
                             </div>
                         </div>
                         <h3>Google Analytics</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
 
@@ -60,7 +64,8 @@
                             </div>
                         </div>
                         <h3>Innovative Strategies</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
 
@@ -74,7 +79,8 @@
                             </div>
                         </div>
                         <h3>Link Building</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
 
@@ -88,7 +94,8 @@
                             </div>
                         </div>
                         <h3>Reputation Management</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna.</p>
                     </div>
                 </div>
             </div>

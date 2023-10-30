@@ -12,7 +12,8 @@
                     <div class="analysis-form">
                         <span class="sub-title">Analysis</span>
                         <h2>Get Free SEO Analysis</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore et dolore magna aliqua.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
@@ -23,13 +24,15 @@
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="your_email" placeholder="Email" required>
+                                        <input type="email" class="form-control" id="your_email" placeholder="Email"
+                                            required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number" required>
+                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number"
+                                            required>
                                     </div>
                                 </div>
 

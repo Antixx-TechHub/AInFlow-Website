@@ -17,64 +17,64 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="contact-form">
                         <form id="contactForm">
-                            <form @submit.prevent="submitContent" id="contactForm" action="mailto:rohanshinde9996@gmail.com" method="post" enctype="text/plain" >
+                            <form @submit.prevent="submitContent" id="contactForm" action="mailto:rohanshinde9996@gmail.com"
+                                method="post" enctype="text/plain">
                                 <!-- <form action="rohanshinde9996@gmail.com" method="post" enctype="text/plain"> -->
-                                    <div class="row">
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input v-model="formData.name" type="text" required name="name" id="name"
-                                                    class="form-control" placeholder="Your Name">
-                                                <div v-if="formErrors.name" class="error-message">{{ formErrors.name }}
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input v-model="formData.email" type="email" required name="email"
-                                                    id="email" class="form-control" placeholder="Your Email">
-                                                <div v-if="formErrors.email" class="error-message">{{ formErrors.email }}
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input v-model="formData.phone_number" type="number" required
-                                                    name="phone_number" id="phone_number" class="form-control"
-                                                    placeholder="Your Phone">
-                                                <div v-if="formErrors.phone_number" class="error-message">{{
-                                                    formErrors.phone_number }}</div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="form-group">
-                                                <input v-model="formData.msg_subject" type="text" required
-                                                    name="msg_subject" id="msg_subject" class="form-control"
-                                                    placeholder="Your Subject">
-                                                <div v-if="formErrors.msg_subject" class="error-message">{{
-                                                    formErrors.msg_subject }}</div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-12 col-md-12">
-                                            <div class="form-group">
-                                                <textarea v-model="formData.message" required class="form-control"
-                                                    id="message" cols="30" rows="6" placeholder="Your Message"></textarea>
-                                                <div v-if="formErrors.message" class="error-message">{{ formErrors.message
-                                                }}</div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-12 col-md-12">
-                                            <div class="form-group">
-                                                <button type="submit" class="default-btn"><i
-                                                        class='bx bxs-paper-plane'></i>Send Message<span>
-                                                    </span> </button>
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <input v-model="formData.name" type="text" required name="name" id="name"
+                                                class="form-control" placeholder="Your Name">
+                                            <div v-if="formErrors.name" class="error-message">{{ formErrors.name }}
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <input v-model="formData.email" type="email" required name="email" id="email"
+                                                class="form-control" placeholder="Your Email">
+                                            <div v-if="formErrors.email" class="error-message">{{ formErrors.email }}
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <input v-model="formData.phone_number" type="number" required
+                                                name="phone_number" id="phone_number" class="form-control"
+                                                placeholder="Your Phone">
+                                            <div v-if="formErrors.phone_number" class="error-message">{{
+                                                formErrors.phone_number }}</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <input v-model="formData.msg_subject" type="text" required name="msg_subject"
+                                                id="msg_subject" class="form-control" placeholder="Your Subject">
+                                            <div v-if="formErrors.msg_subject" class="error-message">{{
+                                                formErrors.msg_subject }}</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <textarea v-model="formData.message" required class="form-control" id="message"
+                                                cols="30" rows="6" placeholder="Your Message"></textarea>
+                                            <div v-if="formErrors.message" class="error-message">{{ formErrors.message
+                                            }}</div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <button type="submit" class="default-btn"><i class='bx bxs-paper-plane'></i>Send
+                                                Message<span>
+                                                </span> </button>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!-- </form> -->
                             </form>
                         </form>

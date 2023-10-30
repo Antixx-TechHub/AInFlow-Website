@@ -18,7 +18,9 @@
                             </div>
                         </div>
                         <h3>Expertise</h3>
-                        <p>Our team of AI and ML experts brings a wealth of knowledge and experience to the table. We've successfully implemented solutions across various industries, demonstrating our capability to tackle diverse challenges.</p>
+                        <p>Our team of AI and ML experts brings a wealth of knowledge and experience to the table. We've
+                            successfully implemented solutions across various industries, demonstrating our capability to
+                            tackle diverse challenges.</p>
                     </div>
                 </div>
 
@@ -32,7 +34,8 @@
                             </div>
                         </div>
                         <h3> Support and Maintenance</h3>
-                        <p>Beyond implementation, we offer ongoing support and maintenance to ensure your AI-ML systems remain robust and continue to provide value over time.</p>
+                        <p>Beyond implementation, we offer ongoing support and maintenance to ensure your AI-ML systems
+                            remain robust and continue to provide value over time.</p>
                     </div>
                 </div>
 
@@ -46,7 +49,9 @@
                             </div>
                         </div>
                         <h3>Proven Results</h3>
-                        <p>We have a track record of delivering tangible results. Our clients have experienced increased efficiency, cost savings, and improved decision-making capabilities after implementing our AI-ML integration solutions.</p>
+                        <p>We have a track record of delivering tangible results. Our clients have experienced increased
+                            efficiency, cost savings, and improved decision-making capabilities after implementing our AI-ML
+                            integration solutions.</p>
                     </div>
                 </div>
 
@@ -60,7 +65,8 @@
                             </div>
                         </div>
                         <h3>Tailored Solutions </h3>
-                        <p>We understand that each business is unique. Our solutions are always customized to meet your specific needs, aligning with your business goals and objectives. </p>
+                        <p>We understand that each business is unique. Our solutions are always customized to meet your
+                            specific needs, aligning with your business goals and objectives. </p>
                     </div>
                 </div>
 
@@ -74,7 +80,8 @@
                             </div>
                         </div>
                         <h3>Competitive Pricing</h3>
-                        <p>We believe that AI-ML integration should be accessible to all businesses, regardless of size. Our competitive pricing ensures that you get the best value for your investment.</p>
+                        <p>We believe that AI-ML integration should be accessible to all businesses, regardless of size. Our
+                            competitive pricing ensures that you get the best value for your investment.</p>
                     </div>
                 </div>
             </div>

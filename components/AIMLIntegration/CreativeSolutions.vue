@@ -6,7 +6,11 @@
                     <div class="content">
                         <span class="sub-title">AinFlow</span>
                         <h2>Introduction</h2>
-                        <p> Welcome to AInFlow, where we specialize in AI-ML integration solutions designed to revolutionize your business operations. In today's digital landscape, the fusion of Artificial Intelligence (AI) and Machine Learning (ML) is no longer a luxury; it's a necessity for businesses looking to stay competitive and drive innovation. We leverage cutting-edge technologies to help you harness the power of AI and ML, tailor-made for your specific needs.</p>
+                        <p> Welcome to AInFlow, where we specialize in AI-ML integration solutions designed to revolutionize
+                            your business operations. In today's digital landscape, the fusion of Artificial Intelligence
+                            (AI) and Machine Learning (ML) is no longer a luxury; it's a necessity for businesses looking to
+                            stay competitive and drive innovation. We leverage cutting-edge technologies to help you harness
+                            the power of AI and ML, tailor-made for your specific needs.</p>
                         <!-- <div class="features-text">
                             <h4>Core Development</h4>
                             <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>

@@ -12,7 +12,8 @@
                     <div class="analysis-form">
                         <span class="sub-title">EMS</span>
                         <h2>Contact Us</h2>
-                        <p>Ready to take your enterprise to the next level? Contact us today to discuss your specific needs and find out how EMS can help you achieve your business objectives.</p>
+                        <p>Ready to take your enterprise to the next level? Contact us today to discuss your specific needs
+                            and find out how EMS can help you achieve your business objectives.</p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
@@ -23,13 +24,15 @@
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="your_email" placeholder="Email" required>
+                                        <input type="email" class="form-control" id="your_email" placeholder="Email"
+                                            required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number" required>
+                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number"
+                                            required>
                                     </div>
                                 </div>
 

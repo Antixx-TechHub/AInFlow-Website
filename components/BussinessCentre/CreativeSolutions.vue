@@ -6,7 +6,10 @@
                     <div class="content">
                         <span class="sub-title">AINFLOW</span>
                         <h2>Introduction</h2>
-                        <p>Welcome to AInFlow, where we redefine the way you work and conduct business. Our state-of-the-art business center offers a wide range of services and amenities designed to meet the diverse needs of modern professionals. Whether you're a startup entrepreneur, a remote worker, or an established company looking for flexible office solutions, we have you covered.</p>
+                        <p>Welcome to AInFlow, where we redefine the way you work and conduct business. Our state-of-the-art
+                            business center offers a wide range of services and amenities designed to meet the diverse needs
+                            of modern professionals. Whether you're a startup entrepreneur, a remote worker, or an
+                            established company looking for flexible office solutions, we have you covered.</p>
                     </div>
                 </div>
 

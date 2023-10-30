@@ -179,12 +179,13 @@
                         </div>
                         <h3>Cost-Effective</h3>
                         <p>Our services are designed to be cost-effective, ensuring a positive return on investment for your
-                        organization.</p>
+                            organization.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div></template>
+</template>
 
 <script>
 

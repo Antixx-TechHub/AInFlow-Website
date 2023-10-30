@@ -12,7 +12,9 @@
                     <div class="analysis-form">
                         <span class="sub-title">DLP</span>
                         <h2>Contact US</h2>
-                        <p>Protect your sensitive information with our comprehensive Data Loss Prevention services. Contact us today to learn more about how we can safeguard your data and provide you with peace of mind.</p>
+                        <p>Protect your sensitive information with our comprehensive Data Loss Prevention services. Contact
+                            us today to learn more about how we can safeguard your data and provide you with peace of mind.
+                        </p>
                         <form>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6">
@@ -23,13 +25,15 @@
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="your_email" placeholder="Email" required>
+                                        <input type="email" class="form-control" id="your_email" placeholder="Email"
+                                            required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
-                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number" required>
+                                        <input type="number" class="form-control" id="your_name" placeholder="Phone Number"
+                                            required>
                                     </div>
                                 </div>
 

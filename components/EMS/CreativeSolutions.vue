@@ -6,7 +6,9 @@
                     <div class="content">
                         <span class="sub-title">EMS</span>
                         <h2>Introduction</h2>
-                        <p>At AInFlow, we are dedicated to helping businesses of all sizes streamline their operations, boost efficiency, and achieve their strategic goals. With a wide range of comprehensive management services, we tailor our solutions to meet the unique needs of your enterprise.</p>
+                        <p>At AInFlow, we are dedicated to helping businesses of all sizes streamline their operations,
+                            boost efficiency, and achieve their strategic goals. With a wide range of comprehensive
+                            management services, we tailor our solutions to meet the unique needs of your enterprise.</p>
                         <!-- <div class="features-text">
                             <h4>Core Development</h4>
                             <p>No fake products and services. The customer is king, their lives and needs are the inspiration.</p>

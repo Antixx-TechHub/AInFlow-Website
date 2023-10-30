@@ -6,7 +6,9 @@
                     <div class="content">
                         <span class="sub-title">Microsoft 365</span>
                         <h2>Introduction</h2>
-                        <p>At M-065, we are dedicated to empowering individuals and businesses to achieve innovation and excellence in a rapidly evolving world. Our mission is to provide you with the tools, knowledge, and resources you need to thrive in an ever-changing landscape.</p>
+                        <p>At M-065, we are dedicated to empowering individuals and businesses to achieve innovation and
+                            excellence in a rapidly evolving world. Our mission is to provide you with the tools, knowledge,
+                            and resources you need to thrive in an ever-changing landscape.</p>
                     </div>
                 </div>
 

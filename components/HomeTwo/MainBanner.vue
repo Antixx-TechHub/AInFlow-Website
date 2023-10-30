@@ -132,9 +132,24 @@
 <script>
 import CoolLightBox from 'vue-cool-lightbox'
 import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
+import axios from 'axios'
+
 
 export default {
     name: 'MainBanner',
+
+    data: () => ({
+        settings: {
+            itemsToShow: 6,
+            snapAlign: 'center',
+        },
+        partners: null,
+    }),
+    created: async function () {
+        const response = await axios.get('https://cms.ainflow.co.in/api/partner?populate=partnerSlides.image')
+        const { data: { attributes } } = response.data
+        this.partners = attributes
+    },
     components: { CoolLightBox },
     data: function () {
         return {

@@ -5,7 +5,6 @@
         <CreativeSolutions />
         <CoreBusiness />
         <GetFreeAnalysis />
-        <!-- <StartYourProjectWithUs /> -->
         <Footer />
     </div>
 </template>
@@ -16,7 +15,6 @@
     import CreativeSolutions from '../components/Intranet/CreativeSolutions'
     import CoreBusiness from '../components/Intranet/CoreBusiness'
     import GetFreeAnalysis from '../components/Intranet/GetFreeAnalysis'
-    // import StartYourProjectWithUs from '../components/Common/StartYourProjectWithUs'
     import Footer from '../layouts/Footer'
     import axios from 'axios';
 
@@ -27,7 +25,6 @@
             CreativeSolutions,
             CoreBusiness,
             GetFreeAnalysis,
-            // StartYourProjectWithUs,
             Footer,
         },
     data() {

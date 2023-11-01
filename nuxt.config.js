@@ -31,6 +31,8 @@ export default {
   plugins: [
     { src: '~/plugins/vue-carousel', ssr: false },
     { src: '~/plugins/vue-backtotop', ssr: false },
+    { src: "~/plugins/vue-lazyload", ssr: false },
+    { src: "~/plugins/vue-toastification", ssr: false },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -66,14 +68,4 @@ export default {
       }
     }
   },
-  // seo: {
-  //   // My custom configuration
-  //   baseUrl: 'https://domain',
-  //   name: '<name of site>',
-  //   title: '<title default>',
-  //   templateTitle: '%name% - %title%',
-  //   description: '<description default>',
-  //   canonical: 'auto',
-  //   isForcedTrailingSlash: false
-  // }
 }

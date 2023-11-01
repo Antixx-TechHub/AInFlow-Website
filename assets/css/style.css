@@ -3655,6 +3655,7 @@ Services Area CSS
   width: 90px;
   text-align: center;
   height: 90px;
+  padding-top: 20px;
   line-height: 90px;
   -webkit-transition: var(--transition);
   transition: var(--transition);

@@ -1,145 +1,128 @@
 <template>
     <div>
-        <CoolLightBox 
-            :items="items" 
-            :fullScreen="true"
-            :index="index"
-            @close="index = null">
+        <CoolLightBox :items="items" :fullScreen="true" :index="index" @close="index = null">
         </CoolLightBox>
 
         <div class="home-wrapper-area">
             <div class="container-fluid">
                 <div v-if="banner !== null" class="row">
-                <div  class="home-slides owl-carousel owl-theme">
-                    <carousel
-                        :autoplay = "true"
-                        :loop = "true"
-                        :paginationEnabled = "false"
-                        :perPageCustom = "[[0, 1]]"
-                        :perPage="1"
-                        :navigationEnabled = "true"
-                        navigationNextLabel="<i class='flaticon-back'></i>"
-                        navigationPrevLabel="<i class='flaticon-chevron'></i>"
-                    >
-                        <slide>
-                            <div class="single-banner-item">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-content">
-                                            <span class="sub-title">Growth Your Business</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
-                                            </h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
-                                                ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
-                                                facilisis.</p>
-                                            <div class="btn-box">
-                                                <div class="d-flex align-items-center">
-                                                    <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div 
-                                                        class="video-btn popup-youtube"
-                                                        v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex"
-                                                        @click="index = imageIndex"
-                                                        style="cursor: pointer"
-                                                    >
-                                                        <i class="flaticon-play-button"></i>
-                                                        Watch Video
+                    <div class="home-slides owl-carousel owl-theme">
+                        <carousel :autoplay="true" :loop="true" :paginationEnabled="false" :perPageCustom="[[0, 1]]"
+                            :perPage="1" :navigationEnabled="true" navigationNextLabel="<i class='flaticon-back'></i>"
+                            navigationPrevLabel="<i class='flaticon-chevron'></i>">
+                            <slide>
+                                <div class="single-banner-item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-content">
+                                                <span class="sub-title">Growth Your Business</span>
+                                                <h3>Seamlessly with processes within Your Organization for maximum
+                                                    productivity
+                                                </h3>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                                    tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
+                                                    suspendisse
+                                                    ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+                                                    facilisis.</p>
+                                                <div class="btn-box">
+                                                    <div class="d-flex align-items-center">
+                                                        <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
+                                                        <div class="video-btn popup-youtube"
+                                                            v-for="(image, imageIndex) in items" :key="imageIndex"
+                                                            @click="index = imageIndex" style="cursor: pointer">
+                                                            <i class="flaticon-play-button"></i>
+                                                            Watch Video
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-image">
-                                            <img src="~/assets/images/banner1.png" alt="image">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-image">
+                                                <img src="~/assets/images/banner1.png" alt="image">
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </slide>
+                            </slide>
 
-                        <slide>
-                            <div class="single-banner-item">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-content">
-                                            <span class="sub-title">Seo Marketing</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
-                                            </h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
-                                                ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
-                                                facilisis.</p>
-                                            <div class="btn-box">
-                                                <div class="d-flex align-items-center">
-                                                    <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div 
-                                                        class="video-btn popup-youtube"
-                                                        v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex"
-                                                        @click="index = imageIndex"
-                                                        style="cursor: pointer"
-                                                    >
-                                                        <i class="flaticon-play-button"></i>
-                                                        Watch Video
+                            <slide>
+                                <div class="single-banner-item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-content">
+                                                <span class="sub-title">Seo Marketing</span>
+                                                <h3>Seamlessly with processes within Your Organization for maximum
+                                                    productivity
+                                                </h3>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                                    tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
+                                                    suspendisse
+                                                    ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+                                                    facilisis.</p>
+                                                <div class="btn-box">
+                                                    <div class="d-flex align-items-center">
+                                                        <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
+                                                        <div class="video-btn popup-youtube"
+                                                            v-for="(image, imageIndex) in items" :key="imageIndex"
+                                                            @click="index = imageIndex" style="cursor: pointer">
+                                                            <i class="flaticon-play-button"></i>
+                                                            Watch Video
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-image">
-                                            <img src="~/assets/images/banner2.png" alt="image">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-image">
+                                                <img src="~/assets/images/banner2.png" alt="image">
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </slide>
+                            </slide>
 
-                        <slide>
-                            <div class="single-banner-item">
-                                <div class="row align-items-center">
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-content">
-                                            <span class="sub-title">Seo Marketing</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
-                                            </h3>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
-                                                ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
-                                                facilisis.</p>
-                                            <div class="btn-box">
-                                                <div class="d-flex align-items-center">
-                                                    <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div 
-                                                        class="video-btn popup-youtube"
-                                                        v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex"
-                                                        @click="index = imageIndex"
-                                                        style="cursor: pointer"
-                                                    >
-                                                        <i class="flaticon-play-button"></i>
-                                                        Watch Video
+                            <slide>
+                                <div class="single-banner-item">
+                                    <div class="row align-items-center">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-content">
+                                                <span class="sub-title">Seo Marketing</span>
+                                                <h3>Seamlessly with processes within Your Organization for maximum
+                                                    productivity
+                                                </h3>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                                                    tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
+                                                    suspendisse
+                                                    ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
+                                                    facilisis.</p>
+                                                <div class="btn-box">
+                                                    <div class="d-flex align-items-center">
+                                                        <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
+                                                        <div class="video-btn popup-youtube"
+                                                            v-for="(image, imageIndex) in items" :key="imageIndex"
+                                                            @click="index = imageIndex" style="cursor: pointer">
+                                                            <i class="flaticon-play-button"></i>
+                                                            Watch Video
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
 
-                                    <div class="col-lg-6 col-md-12">
-                                        <div class="banner-image">
-                                            <img src="~/assets/images/banner3.png" alt="image">
+                                        <div class="col-lg-6 col-md-12">
+                                            <div class="banner-image">
+                                                <img src="~/assets/images/banner3.png" alt="image">
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </slide>
+                            </slide>
 
-                    </carousel>
-                </div>
+                        </carousel>
+                    </div>
                 </div>
             </div>
 
@@ -165,14 +148,14 @@ import axios from 'axios'
 export default {
     name: 'MainBanner',
     components: { CoolLightBox },
-    data (){
+    data() {
         return {
             banner: null,
         }
     },
-    created: async function (){
+    created: async function () {
         const response = await axios.get('https://cms.antixxtechhub.in/api/blogs?populate=*')
-        const { data: {attributes} } = response.data
+        const { data: { attributes } } = response.data
         this.banner = attributes
     },
 }

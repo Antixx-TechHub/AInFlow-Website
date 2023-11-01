@@ -1,36 +1,52 @@
 <template>
     <div>
-        <CoolLightBox :items="items" :fullScreen="true" :index="index" @close="index = null">
+        <CoolLightBox 
+            :items="items" 
+            :fullScreen="true"
+            :index="index"
+            @close="index = null">
         </CoolLightBox>
 
         <div class="home-wrapper-area">
             <div class="container-fluid">
-
-                <div class="home-slides owl-carousel owl-theme">
-                    <carousel :autoplay="true" :loop="true" :autoplayTimeout="7000" :speed="1000" :paginationEnabled="true"
-                        :perPage="1" :navigationEnabled="true" navigationNextLabel="<i class='flaticon-back'></i>"
-                        navigationPrevLabel="<i class='flaticon-chevron'></i>">
+                <div v-if="banner !== null" class="row">
+                <div  class="home-slides owl-carousel owl-theme">
+                    <carousel
+                        :autoplay = "true"
+                        :loop = "true"
+                        :paginationEnabled = "false"
+                        :perPageCustom = "[[0, 1]]"
+                        :perPage="1"
+                        :navigationEnabled = "true"
+                        navigationNextLabel="<i class='flaticon-back'></i>"
+                        navigationPrevLabel="<i class='flaticon-chevron'></i>"
+                    >
                         <slide>
                             <div class="single-banner-item">
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title"> AinFlow</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
+                                            <span class="sub-title">Growth Your Business</span>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
+                                            </h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <!-- <div class="d-flex align-items-center">
+                                                <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div class="video-btn" v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex" @click="index = imageIndex"
-                                                        style="cursor: pointer">
+                                                    <div 
+                                                        class="video-btn popup-youtube"
+                                                        v-for="(image, imageIndex) in items"
+                                                        :key="imageIndex"
+                                                        @click="index = imageIndex"
+                                                        style="cursor: pointer"
+                                                    >
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div> -->
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -49,22 +65,27 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title"> AinFlow</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
+                                            <span class="sub-title">Seo Marketing</span>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
+                                            </h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <!-- <div class="d-flex align-items-center">
+                                                <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div class="video-btn" v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex" @click="index = imageIndex"
-                                                        style="cursor: pointer">
+                                                    <div 
+                                                        class="video-btn popup-youtube"
+                                                        v-for="(image, imageIndex) in items"
+                                                        :key="imageIndex"
+                                                        @click="index = imageIndex"
+                                                        style="cursor: pointer"
+                                                    >
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div> -->
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -83,22 +104,27 @@
                                 <div class="row align-items-center">
                                     <div class="col-lg-6 col-md-12">
                                         <div class="banner-content">
-                                            <span class="sub-title"> AinFlow</span>
-                                            <h3>Seamlessly with processes within Your Organization for maximum productivity</h3>
+                                            <span class="sub-title">Seo Marketing</span>
+                                            <h3>Seamlessly with processes within Your Organization for maximum productivity
+                                            </h3>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                                                 tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse
                                                 ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel
                                                 facilisis.</p>
                                             <div class="btn-box">
-                                                <!-- <div class="d-flex align-items-center">
+                                                <div class="d-flex align-items-center">
                                                     <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
-                                                    <div class="video-btn" v-for="(image, imageIndex) in items"
-                                                        :key="imageIndex" @click="index = imageIndex"
-                                                        style="cursor: pointer">
+                                                    <div 
+                                                        class="video-btn popup-youtube"
+                                                        v-for="(image, imageIndex) in items"
+                                                        :key="imageIndex"
+                                                        @click="index = imageIndex"
+                                                        style="cursor: pointer"
+                                                    >
                                                         <i class="flaticon-play-button"></i>
                                                         Watch Video
                                                     </div>
-                                                </div> -->
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -111,7 +137,9 @@
                                 </div>
                             </div>
                         </slide>
+
                     </carousel>
+                </div>
                 </div>
             </div>
 
@@ -134,32 +162,18 @@ import CoolLightBox from 'vue-cool-lightbox'
 import 'vue-cool-lightbox/dist/vue-cool-lightbox.min.css'
 import axios from 'axios'
 
-
 export default {
     name: 'MainBanner',
-
-    data: () => ({
-        settings: {
-            itemsToShow: 6,
-            snapAlign: 'center',
-        },
-        partners: null,
-    }),
-    created: async function () {
-        const response = await axios.get('https://cms.ainflow.co.in/api/partner?populate=partnerSlides.image')
-        const { data: { attributes } } = response.data
-        this.partners = attributes
-    },
     components: { CoolLightBox },
-    data: function () {
+    data (){
         return {
-            items: [
-                {
-                    src: 'https://www.youtube.com/watch?v=Y5KCDWi7h9o',
-                }
-            ],
-            index: null
-        };
+            banner: null,
+        }
+    },
+    created: async function (){
+        const response = await axios.get('https://cms.antixxtechhub.in/api/blogs?populate=*')
+        const { data: {attributes} } = response.data
+        this.banner = attributes
     },
 }
 </script>

@@ -14,7 +14,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/AI--ML-Integration.png" alt="image">
+                            <img src="~/assets/images/AI--ML-Integration-new.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -34,7 +34,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/DLP.png" alt="image">
+                            <img src="~/assets/images/DLPnew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -56,7 +56,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/EMS.png" alt="image">
+                            <img src="~/assets/images/EMSnew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -76,7 +76,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Internet.png" alt="image">
+                            <img src="~/assets/images/Internetnew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -116,7 +116,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Microsoft-Dynamic-365.png" alt="image">
+                            <img src="~/assets/images/Microsoft-Dynamic-365new.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -137,7 +137,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">                            
-                            <img src="~/assets/images/PowerApp.png" alt="image">
+                            <img src="~/assets/images/PowerAppnew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -157,7 +157,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Microsoft-Office-365a.png" alt="image">
+                            <img src="~/assets/images/Microsoft-Office-365anew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -177,7 +177,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Powerflow.png" alt="image">
+                            <img src="~/assets/images/Powerflownew.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

@@ -12,7 +12,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/dlp/assessment-and-strategy.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -28,7 +28,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/dlp/data-classification.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -59,7 +59,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/dlp/incident-monitoring.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -75,7 +75,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/dlp/user-training.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -90,7 +90,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-reputation"></i>
+                            <img src="~/assets/images/dlp/compliance-management.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -105,7 +105,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/dlp/technollogy-integration.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -121,7 +121,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/dlp/custom-solutions.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -144,7 +144,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/dlp/experience.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -174,7 +174,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/dlp/customize-approach.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -189,7 +189,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/dlp/relaibility.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -204,7 +204,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/dlp/peace-of-mind.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

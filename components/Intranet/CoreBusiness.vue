@@ -12,7 +12,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/intranet/Improve-Communication.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -27,7 +27,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/intranet/Streamline-Document-Management.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -43,7 +43,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/intranet/Boost_collaboration.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -59,7 +59,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/intranet/EnhanceEmployeeEngagement.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/ems/HumanResourcesManagement.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -89,7 +89,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-reputation"></i>
+                            <img src="~/assets/images/intranet/EnsureSecurity-and-Compliance.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -104,7 +104,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/intranet/scalability.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -138,7 +138,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/intranet/Tailored-Solutions.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -154,7 +154,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/intranet/Expertise-and-Experience.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -170,7 +170,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/intranet/Dedicated-Support.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -185,7 +185,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/intranet/scalability.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -200,7 +200,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/intranet/Security-and-Compliance.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -216,7 +216,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-reputation"></i>
+                            <img src="~/assets/images/intranet/Cost-Effective.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -232,7 +232,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/intranet/User-Friendly-Design.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -248,7 +248,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/intranet/ContinuousInnovation.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -263,7 +263,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/intranet/Proven-Track-Record.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

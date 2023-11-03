@@ -19,14 +19,14 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/power-bi/WhyPowerBI.png" alt="image">
                     </div>
                 </div>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-img">
-                        <img src="~/assets/images/seo-analysis.png" alt="Image">
+                        <img src="~/assets/images/power-bi/GettingStarted.png" alt="image">
                     </div>
                 </div>
 

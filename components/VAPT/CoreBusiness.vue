@@ -12,7 +12,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/vapt/vulnerablity-assesment.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -30,7 +30,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/vapt/penteration-testing.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -79,7 +79,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/dlp/assessment-and-strategy.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -95,7 +95,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-reputation"></i>
+                            <img src="~/assets/images/vapt/social-engineering-testing.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/ui-development/Expertise.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -133,7 +133,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/vapt/comprehensive-solution.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -148,7 +148,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/power-bi/data-visualization.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -163,7 +163,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/vapt/proactive-solutions.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -178,19 +178,20 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-link"></i>
+                            <img src="~/assets/images/vapt/compliance-assistance.png" alt="image">
                             <div class="circles-box">
-                            <div class="circle-one"></div>
-                            <div class="circle-two"></div>
+                                <div class="circle-one"></div>
+                                <div class="circle-two"></div>
+                            </div>
                         </div>
+                        <h3>Compliance Assistance</h3>
+                        <p>Our services can help you meet regulatory compliance requirements and industry standards.</p>
                     </div>
-                    <h3>Compliance Assistance</h3>
-                    <p>Our services can help you meet regulatory compliance requirements and industry standards.</p>
                 </div>
             </div>
         </div>
     </div>
-</div></template>
+</template>
 
 <script>
 

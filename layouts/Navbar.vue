@@ -80,7 +80,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <NuxtLink to="/services-details" class="nav-link">Security</NuxtLink>
+                                <NuxtLink to="/security" class="nav-link">Security</NuxtLink>
                             </li>
 
                             <li class="nav-item">

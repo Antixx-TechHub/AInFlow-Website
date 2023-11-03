@@ -14,7 +14,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/microsoft-three-sixty-five/m365intro.png" alt="image">
                     </div>
                 </div>
             </div>

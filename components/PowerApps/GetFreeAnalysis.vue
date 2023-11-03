@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-img">
-                        <img src="~/assets/images/seo-analysis.png" alt="Image">
+                        <img src="~/assets/images/power-apps/whypowerapp.png" alt="image">
                     </div>
                 </div>
 

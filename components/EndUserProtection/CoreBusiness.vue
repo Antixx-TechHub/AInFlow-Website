@@ -10,7 +10,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/end-user-protection/privacy-preservation.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -25,7 +25,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/end-user-protection/cyber-security.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -40,7 +40,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/end-user-protection/data-integraity.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/end-user-protection/strong-password.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -78,7 +78,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/end-user-protection/two-factor-authentication.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -93,7 +93,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-bar-chart"></i>
+                            <img src="~/assets/images/end-user-protection/phishing-awareness.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -108,7 +108,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content"></i>
+                            <img src="~/assets/images/end-user-protection/software-update.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -123,7 +123,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/end-user-protection/backup-recovery.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -145,7 +145,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-box">
                             <div class="icon">
-                                <i class="flaticon-content"></i>
+                                <img src="~/assets/images/power-apps/security.png" alt="image">
                                 <div class="circles-box">
                                     <div class="circle-one"></div>
                                     <div class="circle-two"></div>
@@ -160,7 +160,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-box">
                             <div class="icon">
-                                <i class="flaticon-darts"></i>
+                                <img src="~/assets/images/end-user-protection/creative-content.png" alt="image">
                                 <div class="circles-box">
                                     <div class="circle-one"></div>
                                     <div class="circle-two"></div>
@@ -175,7 +175,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6">
                         <div class="single-services-box">
                             <div class="icon">
-                                <i class="flaticon-bar-chart"></i>
+                                <img src="~/assets/images/end-user-protection/community-support.png" alt="image">
                                 <div class="circles-box">
                                     <div class="circle-one"></div>
                                     <div class="circle-two"></div>

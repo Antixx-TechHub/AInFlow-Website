@@ -15,7 +15,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/end-user-protection/enduserintro.png" alt="image">
                     </div>
                 </div>
             </div>

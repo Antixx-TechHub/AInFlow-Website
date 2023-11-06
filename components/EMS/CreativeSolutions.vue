@@ -22,7 +22,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/ems/EMSintro.png" alt="image">
                     </div>
                 </div>
             </div>

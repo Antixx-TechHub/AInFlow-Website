@@ -22,7 +22,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/ai-ml-integration/AI-MIconclusion.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="analysis-img">
-                        <img src="~/assets/images/seo-analysis.png" alt="Image">
+                        <img src="~/assets/images/ai-ml-integration/AI-MIgettouch.png" alt="image">
                     </div>
                 </div>
 

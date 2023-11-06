@@ -89,15 +89,15 @@
                         <section class="widget widget_insight">
                             <ul>
                                 <li>
-                                    <NuxtLink to="/about-one">About Us</NuxtLink>
+                                    <NuxtLink to="/about-us">About Us</NuxtLink>
                                 </li>
                                 <li>
-                                    <NuxtLink to="/contact">Contact Us</NuxtLink>
-                                </li>
-                                <li>
-                                    <NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink>
+                                    <NuxtLink to="/contact-us">Contact Us</NuxtLink>
                                 </li>
                                 <li class="active">
+                                    <NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink>
+                                </li>
+                                <li>
                                     <NuxtLink to="/terms-of-service">Terms of Service</NuxtLink>
                                 </li>
                             </ul>

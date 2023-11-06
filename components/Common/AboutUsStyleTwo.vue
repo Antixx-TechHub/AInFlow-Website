@@ -20,7 +20,7 @@
                                 AInFlow is a team of technology experts with 15+ years of excellent track record in Windows
                                 Server Infrastructure, Office 365 & Azure Cloud Services and technology consulting.
                                 AInFlow’s team is certified on</p>
-                            <ul class="funfacts-list">
+                            <!-- <ul class="funfacts-list">
                                 <li>
                                     <div class="list">
                                         <i class="flaticon-menu-1"></i>
@@ -42,7 +42,7 @@
                                         <p>Expert team members</p>
                                     </div>
                                 </li>
-                            </ul>
+                            </ul> -->
                             <NuxtLink to="/about-us" class="default-btn">More About Us</NuxtLink>
                         </div>
                     </div>

@@ -12,7 +12,7 @@
                     <div class="project-start-content">
                         <span class="sub-title">Get Started</span>
                         <h2>We Like to Start Your Project With Us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+                        <p>We Like to Start Your Project With Us" is an invitation to choose us as your project partner. We're eager to kickstart your journey toward success.</p>
                         <NuxtLink to="/contact" class="default-btn">Get Started</NuxtLink>
                     </div>
                 </div>

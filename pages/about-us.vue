@@ -3,7 +3,8 @@
         <NavbarStyleTwo />
         <PageTitle pageTitle="About Us" />
         <AboutUsStyleThree class="pt-100" />
-        <HistoryBegins />
+        <CreativeSolutions />
+        <!-- <HistoryBegins /> -->
         <OurTeamStyleTwo />
         <OurClientsAreSaying />
         <Partner />
@@ -15,7 +16,8 @@
 import NavbarStyleTwo from '../layouts/Navbar'
 import PageTitle from '../components/Common/PageTitle'
 import AboutUsStyleThree from '../components/Common/AboutUsStyleThree'
-import HistoryBegins from '../components/Common/HistoryBegins'
+import CreativeSolutions from '../components/About-Us/CreativeSolutions'
+// import HistoryBegins from '../components/Common/HistoryBegins' 
 import OurTeamStyleTwo from '../components/Common/OurTeamStyleTwo'
 import OurClientsAreSaying from '../components/HomeEight/OurClientsAreSaying'
 import Partner from '../components/Common/Partner'
@@ -28,7 +30,8 @@ export default {
         NavbarStyleTwo,
         PageTitle,
         AboutUsStyleThree,
-        HistoryBegins,
+        CreativeSolutions,
+        // HistoryBegins,
         OurTeamStyleTwo,
         OurClientsAreSaying,
         Partner,

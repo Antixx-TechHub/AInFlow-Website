@@ -5,7 +5,7 @@
         <ServicesContant />
         <AboutUsStyleTwo />
         <CheckOurServices />
-        <WhatWeDo />
+        <!-- <WhatWeDo /> -->
         <WhatOurClientsSaying />
         <OurSomeRecentWorks />
         <Partner />
@@ -22,7 +22,7 @@
     import ServicesContant from '../components/HomeTwo/ServicesContant'
     import AboutUsStyleTwo from '../components/Common/AboutUsStyleTwo'
     import CheckOurServices from '../components/Common/CheckOurServices'
-    import WhatWeDo from '../components/Common/WhatWeDo'
+    // import WhatWeDo from '../components/Common/WhatWeDo'
     import WhatOurClientsSaying from '../components/Common/WhatOurClientsSaying'
     import OurSomeRecentWorks from '../components/Common/OurSomeRecentWorks'
     import Partner from '../components/Common/Partner'
@@ -40,7 +40,7 @@
             ServicesContant,
             AboutUsStyleTwo,
             CheckOurServices,
-            WhatWeDo,
+            // WhatWeDo,
             WhatOurClientsSaying,
             OurSomeRecentWorks,
             Partner,

@@ -11,8 +11,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="about-content">
                         <div class="text">
-                            <span class="sub-title">About Us</span>
-                            <h2>Enjoy Full-Service Digital Marketing Expertise</h2>
+                            <span class="sub-title">About AInFlow</span>
                             <p>At AInFlow Solutions, we are passionate about IT management and Technology integration to serve businesses with profound solutions. We understand the importance of Return on Investment and hence partnering with AInFlow delivers the value that your business is looking from technology engagements. AInFlow is a team of technology experts with 15+ years of excellent track record in Windows Server Infrastructure, Office 365 & Azure Cloud Services and technology consulting. AInFlow’s team is certified on...</p>
                             <ul class="features-list">
                                 <li><i class="flaticon-speed"></i> Microsoft® Certified Solutions Associate: Office 365</li>

@@ -1,6 +1,10 @@
 <template>
     <div class="partner-area bg-f9f9f9 ptb-70">
         <div class="container">
+            <div class="section-title">
+                <span class="sub-title">Our Partners</span>
+                <h2>We Help to Achieve Your Business Goal</h2>
+            </div>
             <div class="row align-items-center">
                 <div class="col-lg-12 col-6 col-sm-4 col-md-4">
                     <carousel :autoplay="true" :loop="true" :autoplayTimeout="7000" :speed="1000" :paginationEnabled="true"

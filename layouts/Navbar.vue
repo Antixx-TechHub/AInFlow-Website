@@ -112,14 +112,14 @@
                     </b-collapse>
 
                     <div class="others-option d-flex align-items-center">
-                        <div class="option-item">
+                        <!-- <div class="option-item">
                             <div class="cart-btn">
                                 <NuxtLink to="/cart">
                                     <i class="flaticon-shopping-cart"></i>
                                     <span>{{ cart.length }}</span>
                                 </NuxtLink>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="option-item">
                             <div class="search-box" v-on:click="isSearchMethod(isSearch)">

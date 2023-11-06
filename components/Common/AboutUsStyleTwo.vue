@@ -12,14 +12,14 @@
                     <div class="about-content">
                         <div class="text">
                             <!-- <span class="sub-title">AboutUs</span> -->
-                            <h2>AboutUs</h2>
+                            <h2>About Us</h2>
                             <p>At AInFlow Solutions, we are passionate about IT management and Technology integration to
                                 serve businesses with profound solutions. We understand the importance of Return on
                                 Investment and hence partnering with AInFlow delivers the value that your business is
                                 looking from technology engagements.
                                 AInFlow is a team of technology experts with 15+ years of excellent track record in Windows
                                 Server Infrastructure, Office 365 & Azure Cloud Services and technology consulting.
-                                AInFlow’s team is certified on</p>
+                                AInFlow’s team is certified on...</p>
                             <!-- <ul class="funfacts-list">
                                 <li>
                                     <div class="list">

@@ -4,7 +4,7 @@
             <div class="section-title">
                 <span class="sub-title">Case Studies</span>
                 <h2>Check of Our Some Recent Works & Case Studies</h2>
-                <p>Case studies offer detailed insights into real-life situations, showcasing practical solutions and outcomes. They are valuable tools for learning, problem-solving, and decision-making in various fields.</p>
+                <p class="text-left">Case studies offer detailed insights into real-life situations, showcasing practical solutions and outcomes. They are valuable tools for learning, problem-solving, and decision-making in various fields.</p>
             </div>
         </div>
 

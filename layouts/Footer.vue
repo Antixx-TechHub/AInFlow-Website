@@ -34,18 +34,16 @@
                             <li>
                                 <NuxtLink to="/about-us">About Us</NuxtLink>
                             </li>
-                            <!-- <li>
-                                <NuxtLink to="/pricing">Pricing</NuxtLink>
-                            </li> -->
                             <li>
-                                <NuxtLink to="/portfolio">Portfolio</NuxtLink>
+                                <NuxtLink to="/contact-us">Contact Us</NuxtLink>
                             </li>
                             <li>
-                                <NuxtLink to="/contact-us">Contact</NuxtLink>
+                                <NuxtLink to="/security">Security</NuxtLink>
                             </li>
                             <li>
-                                <NuxtLink to="/carrers">Carrer</NuxtLink>
+                                <NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink>
                             </li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -56,14 +54,8 @@
 
                         <ul class="footer-links-list">
                             <li>
-                                <NuxtLink to="/team">Team</NuxtLink>
+                                <NuxtLink to="/portfolio">Portfolio</NuxtLink>
                             </li>
-                            <li>
-                                <NuxtLink to="/services">Services</NuxtLink>
-                            </li>
-                            <!-- <li>
-                                <NuxtLink to="/faq">FAQ</NuxtLink>
-                            </li> -->
                             <li>
                                 <NuxtLink to="/blogs">Blog</NuxtLink>
                             </li>
@@ -72,6 +64,9 @@
                             </li>
                             <li>
                                 <NuxtLink to="/case-studies">Case Study</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/carrers">Carrer</NuxtLink>
                             </li>
                         </ul>
                     </div>

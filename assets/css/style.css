@@ -203,6 +203,8 @@ p:last-child {
   margin-left: auto;
   margin-right: auto;
   margin-top: 12px;
+  text-align: center;
+
 }
 
 .section-title .learn-more-btn {

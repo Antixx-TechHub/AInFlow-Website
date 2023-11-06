@@ -25,7 +25,7 @@
 
                 <div class="col-lg-2 col-md-6 col-sm-6">
                     <div class="single-footer-widget pl-5">
-                        <h3>Quicklinks</h3>
+                        <h3>QuickLinks</h3>
 
                         <ul class="footer-links-list">
                             <li>

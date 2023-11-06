@@ -28,7 +28,7 @@
 
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img1.png" alt="image">
+                        <img src="~/assets/images/security/securityimg1.jpg" alt="image">
                     </div>
                 </div>
             </div>
@@ -36,7 +36,7 @@
             <div class="overview-box">
                 <div class="overview-image">
                     <div class="image">
-                        <img src="~/assets/images/services/services-img2.png" alt="image">
+                        <img src="~/assets/images/security/securityimg2.jpg" alt="image">
                     </div>
                 </div>
 

@@ -4,8 +4,7 @@
             <div class="overview-box">
                 <div class="overview-content">
                     <div class="content">
-                        <span class="sub-title">Security</span>
-                        <h2>BENEFITS OF CLOUD MANAGED SERVICES</h2>
+                        <h3>BENEFITS OF CLOUD MANAGED SERVICES</h3>
                         <p>We are here to help you understand the best practices of cloud adoption and management to help
                             you grow your business.
                             Migrating to the public or private cloud is only the beginning of the journey. Without a proven
@@ -43,7 +42,6 @@
 
                 <div class="overview-content">
                     <div class="content right-content">
-                        <span class="sub-title">Social Media Marketing</span>
                         <h4> Cloud Security</h4>
                         <p>By using AInFlow trusted managed cloud security services, your business will become fully
                             compliant with the General Data Protection Regulation (GDPR), Health Insurance Portability and

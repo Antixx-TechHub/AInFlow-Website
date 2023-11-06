@@ -3370,13 +3370,13 @@ About Area CSS
   left: 0;
   top: 0;
   display: inline-block;
-  width: 45px;
-  height: 45px;
+  width: 30px;
+  height: 30px;
   text-align: center;
   background-color: var(--mainColor);
   color: var(--whiteColor);
   border-radius: 50%;
-  line-height: 45px;
+  line-height: 30px;
   -webkit-transition: var(--transition);
   transition: var(--transition);
 }

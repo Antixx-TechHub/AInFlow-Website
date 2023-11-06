@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleFour />
-        <PageTitle pageTitle="Services Details" />
+        <PageTitle pageTitle="Security" />
         <CreativeSolutions />
         <Footer />
     </div>

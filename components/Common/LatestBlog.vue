@@ -2,10 +2,9 @@
     <div class="blog-area bg-f9f9f9 pt-100 pb-70">
         <div class="container">
             <div class="section-title">
-                <span class="sub-title">Our Blog</span>
-                <h2>Our Latest Media</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna.</p>
+                <!-- <span class="sub-title">Our Blog</span> -->
+                <h2>Our Latest Blog</h2>
+                <p>This is a section or webpage that features the most recent articles or posts published by a website or blog, offering up-to-date information and content.</p>
             </div>
 
             <div class="row" v-if="blogs !== []">

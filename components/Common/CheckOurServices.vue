@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Intranet.png" alt="image">
+                            <img src="~/assets/images/Intranetnew1.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -116,7 +116,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/Microsoft-Dynamic-365new.png" alt="image">
+                            <img src="~/assets/images/Microsoft-Dynamic-365new3.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -137,7 +137,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">                            
-                            <img src="~/assets/images/PowerAppnew.png" alt="image">
+                            <img src="~/assets/images/powerapplatest.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -197,7 +197,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-megaphone"></i>
+                            <img src="~/assets/images/staff_augmentation.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-keywords"></i>
+                            <img src="~/assets/images/UI_Development.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>
@@ -226,7 +226,7 @@
                         <h3>
                             <NuxtLink to="/ui-development"> UI Development</NuxtLink>
                         </h3>
-                        <p>"UI development is the process of programming client-facing interfaces. Like UI design, the UI
+                        <p>UI development is the process of programming client-facing interfaces. Like UI design, the UI
                             development process includes writing code for images, animations, sliders, text fields, buttons
                         </p>
                         <NuxtLink to="/ui-development" class="learn-more-btn"><i
@@ -238,7 +238,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-content-management"></i>
+                            <img src="~/assets/images/VAPT.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

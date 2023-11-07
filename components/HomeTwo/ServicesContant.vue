@@ -5,7 +5,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-research"></i>
+                            <img src="~/assets/images/SAPResources.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
@@ -24,7 +24,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-speed"></i>
+                            <img src="~/assets/images/ServerHardening.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>
@@ -43,7 +43,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-0 offset-md-3 offset-sm-3">
                     <div class="single-boxes-box">
                         <div class="icon">
-                            <i class="flaticon-email-marketing"></i>
+                            <img src="~/assets/images/SharePointDMS.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                             </div>

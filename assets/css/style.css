@@ -2676,6 +2676,7 @@ Boxes Area CSS
   color: var(--mainColor);
   font-size: 40px;
   margin-bottom: 30px;
+  padding-top: 20px;
 }
 
 .single-boxes-box .icon .circles-box {

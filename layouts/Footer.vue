@@ -15,8 +15,8 @@
                                         class='bx bxl-facebook'></i></a></li>
                             <li><a href="https://twitter.com/singi_avin49564" class="d-block" target="_blank"><i
                                         class='bx bxl-twitter'></i></a></li>
-                            <li><a href="https://www.instagram.com/" class="d-block" target="_blank"><i
-                                        class='bx bxl-instagram'></i></a></li>
+                            <!-- <li><a href="https://www.instagram.com/" class="d-block" target="_blank"><i
+                                        class='bx bxl-instagram'></i></a></li> -->
                             <li><a href="https://www.linkedin.com/company/ainflow-mycompany" class="d-block" target="_blank"><i
                                         class='bx bxl-linkedin'></i></a></li>
                         </ul>

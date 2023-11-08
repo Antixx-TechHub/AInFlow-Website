@@ -141,7 +141,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <img src="~/assets/images/bussines-center/flexible-home-space.png" alt="image">
+                            <img src="~/assets/images/sharepoint-dms/trainings.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

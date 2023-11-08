@@ -3,7 +3,7 @@
         <div class="container">
             <div class="section-title">
                 <span>
-                    <h2>Our Featuredblog Blog</h2>
+                    <h2>Our FeaturedBlog</h2>
                 </span>
             </div>
             <div class="row" v-if="featuredblogs !== []">

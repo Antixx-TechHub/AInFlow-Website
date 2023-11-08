@@ -11,13 +11,13 @@
                             creating is continually increasing.</p>
 
                         <ul class="social-link">
-                            <li><a href="https://www.facebook.com/" class="d-block" target="_blank"><i
+                            <li><a href="https://www.facebook.com/profile.php?id=61552968779353&mibextid=ZbWKwL" class="d-block" target="_blank"><i
                                         class='bx bxl-facebook'></i></a></li>
-                            <li><a href="https://twitter.com/" class="d-block" target="_blank"><i
+                            <li><a href="https://twitter.com/singi_avin49564" class="d-block" target="_blank"><i
                                         class='bx bxl-twitter'></i></a></li>
                             <li><a href="https://www.instagram.com/" class="d-block" target="_blank"><i
                                         class='bx bxl-instagram'></i></a></li>
-                            <li><a href="https://www.linkedin.com/" class="d-block" target="_blank"><i
+                            <li><a href="https://www.linkedin.com/company/ainflow-mycompany" class="d-block" target="_blank"><i
                                         class='bx bxl-linkedin'></i></a></li>
                         </ul>
                     </div>

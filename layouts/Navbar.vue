@@ -76,10 +76,6 @@
                             </li>
 
                             <li class="nav-item">
-                                <NuxtLink to="/portfolio" class="nav-link">Portfolio</NuxtLink>
-                            </li>
-
-                            <li class="nav-item">
                                 <NuxtLink to="/security" class="nav-link">Security</NuxtLink>
                             </li>
 
@@ -100,6 +96,9 @@
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/carrers" class="nav-link">Carrers</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/portfolio" class="nav-link">Portfolio</NuxtLink>
                                     </li>
                                 </ul>
 

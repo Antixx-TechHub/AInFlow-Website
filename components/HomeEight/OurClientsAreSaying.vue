@@ -44,7 +44,7 @@ export default {
         }
     },
     created: async function () {
-        const response = await axios.get('https://evolvestrapi.pbwebvision.in/api/customerreview?populate=singleFeedbacks.media')
+        const response = await axios.get('https://cms.ainflow.co.in/api/customerreview?populate=singleFeedbacks.media')
         const { data: { attributes } } = response.data;
         this.customerreviews = attributes
     },

@@ -3,7 +3,7 @@
         <div class="container">
             <div class="section-title">
                 <span class="sub-title">Our Partners</span>
-                <h2>We Help to Achieve Your Business Goal</h2>
+                <h1>Unlocking Synergy Through Partnerships</h1>
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-12 col-6 col-sm-4 col-md-4">

@@ -159,7 +159,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-services-box">
                         <div class="icon">
-                            <i class="flaticon-darts"></i>
+                            <img src="~/assets/images/ui-development/Cutting-Edge_Technology.png" alt="image">
                             <div class="circles-box">
                                 <div class="circle-one"></div>
                                 <div class="circle-two"></div>

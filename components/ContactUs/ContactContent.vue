@@ -4,7 +4,6 @@
             <div class="section-title">
                 <span class="sub-title">Get in Touch</span>
                 <h2>Ready to Get Started?<span class="overlay"></span></h2>
-                <p>Your email address will not be published. Required fields are marked *</p>
             </div>
 
             <div class="row">

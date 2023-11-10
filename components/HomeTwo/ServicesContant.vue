@@ -11,11 +11,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/sap-resources">SAP Resources</NuxtLink>
+                            <NuxtLink to="/">SAP Resources</NuxtLink>
                         </h3>
                         <p>SAP (Systems, Applications, and Products) is a globally renowned software company that provides a
                             wide range of business solutions designed to streamline operations</p>
-                        <NuxtLink to="/sap-resources" class="learn-more-btn"><i
+                        <NuxtLink to="/#" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>
@@ -30,11 +30,11 @@
                             </div>
                         </div>
                         <h3>
-                            <NuxtLink to="/server-hardning">Server Hardening</NuxtLink>
+                            <NuxtLink to="/">Server Hardening</NuxtLink>
                         </h3>
                         <p>Server hardening is a crucial system fortification process designed to fortify a server against a
                             myriad of cyber threats by minimizing its attack surface</p>
-                        <NuxtLink to="/server-hardning" class="learn-more-btn"><i
+                        <NuxtLink to="/#" class="learn-more-btn"><i
                                 class="left-icon flaticon-next-button"></i> Learn More <i
                                 class="right-icon flaticon-next-button"></i></NuxtLink>
                     </div>

@@ -79,7 +79,7 @@
                         <ul class="footer-contact-info">
                             <li><i class='bx bx-map'></i>B702, Bhoomi Paradise, Sector 11 Sanpada, Navi Mumbai, 400705.
                             </li>
-                            <li><i class='bx bx-envelope'></i><a href="mailto:hello@rivate.com">ainash@ainflow.co.in</a>
+                            <li><i class='bx bx-envelope'></i><a href="mailto:avinash@ainflow.co.in">avinash@ainflow.co.in</a>
                             </li>
                             <li><i class='bx bx-phone-call'></i><a href="tel:+91-99208 28780">+91-99208 28780 </a>, <a
                                     href="tel:+91-93228 34970">+91-93228 34970 </a></li>

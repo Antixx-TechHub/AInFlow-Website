@@ -25,7 +25,7 @@
                         </div>
                         <h3>Contact</h3>
                         <p>Mobile: <a href="tel:+91-99208 28770">+91-99208 28770</a></p>
-                        <p>E-mail: <a href="mailto:hello@rivate.com">ainash@ainflow.co.in</a></p>
+                        <p>E-mail: <a href="mailto:avinash@ainflow.co.in">avinash@ainflow.co.in</a></p>
                     </div>
                 </div>
 

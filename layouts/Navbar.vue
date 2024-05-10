@@ -4,7 +4,7 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <NuxtLink class="navbar-brand" to="/#">
-                        <img src="~/assets/images/ainflowlogo.png" alt="logo">
+                        <img src="~/assets/images/logo.png" alt="logo">
                     </NuxtLink>
 
                     <b-navbar-toggle target="navbarSupportedContent">
@@ -100,9 +100,6 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/carrers" class="nav-link">Carrers</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/portfolio" class="nav-link">Portfolio</NuxtLink>
-                                    </li>
                                 </ul>
 
                             </li>
@@ -123,13 +120,13 @@
                             </div>
                         </div> -->
 
-                        <div class="option-item">
+                        <!-- <div class="option-item">
                             <div class="search-box" v-on:click="isSearchMethod(isSearch)">
                                 <i class="flaticon-search"></i>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="search-overlay" v-if="isSearch">
+                        <!-- <div class="search-overlay" v-if="isSearch">
                             <div class="d-table">
                                 <div class="d-table-cell">
                                     <div class="search-overlay-layer"></div>
@@ -149,7 +146,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </nav>
             </div>

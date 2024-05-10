@@ -8,7 +8,7 @@
         <!-- <WhatWeDo /> -->
         <WhatOurClientsSaying />
         <OurSomeRecentWorks />
-        <!-- <Partner /> -->
+        <Partner />
         <OurTeamStyleTwo />
         <StartYourProjectWithUs />
         <LatestBlog />

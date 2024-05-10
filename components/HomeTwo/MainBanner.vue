@@ -7,7 +7,7 @@
             <div class="container-fluid">
                 <div v-if="banner !== null" class="row">
                     <div class="home-slides owl-carousel owl-theme">
-                        <carousel :autoplay="true" :loop="true" :paginationEnabled="false" :perPageCustom="[[0, 1]]"
+                        <carousel :autoplay="true" :loop="true" :autoplayTimeout="7000" :speed="5000" :paginationEnabled="false" :perPageCustom="[[0, 1]]"
                             :perPage="1" :navigationEnabled="true" navigationNextLabel="<i class='flaticon-back'></i>"
                             navigationPrevLabel="<i class='flaticon-chevron'></i>">
                             <slide>
@@ -18,10 +18,15 @@
                                                 <span class="sub-title">AInFlow</span>
                                                 <h3>Where AI Meets Innovation AInFlow
                                                 </h3>
-                                                <p>Welcome to AInFlow, your gateway to the world of artificial intelligence. We are dedicated to harnessing the transformative potential of AI to help businesses and individuals thrive in the digital age. Our commitment to innovation, customization, and proven results sets us apart in the AI landscape.</p>
+                                                <p>Welcome to AInFlow, your gateway to the world of artificial
+                                                    intelligence. We are dedicated to harnessing the transformative
+                                                    potential of AI to help businesses and individuals thrive in the
+                                                    digital age. Our commitment to innovation, customization, and proven
+                                                    results sets us apart in the AI landscape.</p>
                                                 <div class="btn-box">
                                                     <div class="d-flex align-items-center">
-                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started</NuxtLink>
+                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started
+                                                        </NuxtLink>
                                                         <div class="video-btn popup-youtube"
                                                             v-for="(image, imageIndex) in items" :key="imageIndex"
                                                             @click="index = imageIndex" style="cursor: pointer">
@@ -50,10 +55,15 @@
                                                 <span class="sub-title">AInFlow</span>
                                                 <h3>Innovating with Intelligence Welcome to AInFlow
                                                 </h3>
-                                                <p>Welcome to AInFlow, the driving force behind AI-driven innovation. We are dedicated to helping businesses, organizations, and individuals unlock the immense potential of artificial intelligence. Our commitment to delivering intelligent solutions, customized to your unique needs, sets us apart.</p>
+                                                <p>Welcome to AInFlow, the driving force behind AI-driven innovation. We
+                                                    are dedicated to helping businesses, organizations, and individuals
+                                                    unlock the immense potential of artificial intelligence. Our
+                                                    commitment to delivering intelligent solutions, customized to your
+                                                    unique needs, sets us apart.</p>
                                                 <div class="btn-box">
                                                     <div class="d-flex align-items-center">
-                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started</NuxtLink>
+                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started
+                                                        </NuxtLink>
                                                         <div class="video-btn popup-youtube"
                                                             v-for="(image, imageIndex) in items" :key="imageIndex"
                                                             @click="index = imageIndex" style="cursor: pointer">
@@ -82,10 +92,15 @@
                                                 <span class="sub-title">AInFlow</span>
                                                 <h3>AI-Powered Solutions for a Smarter World
                                                 </h3>
-                                                <p>Welcome to AInFlow, your trusted partner in AI-powered transformation. Our passion for AI innovation drives us to deliver exceptional solutions that empower your business and elevate your potential. We're committed to making artificial intelligence accessible and effective for everyone.</p>
+                                                <p>Welcome to AInFlow, your trusted partner in AI-powered
+                                                    transformation. Our passion for AI innovation drives us to deliver
+                                                    exceptional solutions that empower your business and elevate your
+                                                    potential. We're committed to making artificial intelligence
+                                                    accessible and effective for everyone.</p>
                                                 <div class="btn-box">
                                                     <div class="d-flex align-items-center">
-                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started</NuxtLink>
+                                                        <NuxtLink to="/contact-us" class="default-btn">Get Started
+                                                        </NuxtLink>
                                                         <div class="video-btn popup-youtube"
                                                             v-for="(image, imageIndex) in items" :key="imageIndex"
                                                             @click="index = imageIndex" style="cursor: pointer">

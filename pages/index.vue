@@ -2,13 +2,13 @@
     <div>
         <NavbarStyleTwo />
         <MainBanner />
-        <ServicesContant />
         <AboutUsStyleTwo />
+        <!-- <ServicesContant /> -->
         <CheckOurServices />
         <!-- <WhatWeDo /> -->
         <WhatOurClientsSaying />
         <OurSomeRecentWorks />
-        <Partner />
+        <!-- <Partner /> -->
         <OurTeamStyleTwo />
         <StartYourProjectWithUs />
         <LatestBlog />

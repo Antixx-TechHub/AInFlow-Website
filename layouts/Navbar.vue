@@ -28,49 +28,52 @@
                                 <NuxtLink to="" class="nav-link">Services</NuxtLink>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/power-bi" class="nav-link">PowerBi</NuxtLink>
+                                        <NuxtLink to="/microsoftsixtyfive" class="nav-link">Microsoft Office 365
+                                        </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/bussiness-center" class="nav-link">Bussiness Centre</NuxtLink>
+                                        <NuxtLink to="/ems" class="nav-link">EMS</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/dlp" class="nav-link">DLP</NuxtLink>
-                                    </li>
-                                    <!-- <li class="nav-item">
-                                        <NuxtLink to="/fno" class="nav-link">FNO</NuxtLink>
-                                    </li> -->
                                     <li class="nav-item">
                                         <NuxtLink to="/powerapps" class="nav-link">PowerApps</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/sharepointdms" class="nav-link">SharePointDMS</NuxtLink>
+                                        <NuxtLink to="/power-bi" class="nav-link">PowerBi</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/microsoftsixtyfive" class="nav-link">M-065</NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/intranet" class="nav-link">Intranet</NuxtLink>
-                                    </li>
-                                    <!-- <li class="nav-item">
-                                        <NuxtLink to="/internet" class="nav-link">Internet</NuxtLink>
-                                    </li> -->
-                                    <li class="nav-item">
-                                        <NuxtLink to="/ems" class="nav-link">EMS</NuxtLink>
-                                    </li>
-                                    <!-- <li class="nav-item">
-                                        <NuxtLink to="/powerflow" class="nav-link">PowerFlow</NuxtLink>
-                                    </li> -->
-                                    <li class="nav-item">
-                                        <NuxtLink to="/ui-development" class="nav-link">UI Development</NuxtLink>
+                                        <NuxtLink to="/sharepointdms" class="nav-link">SharePoint</NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/aiml-integration" class="nav-link">AI-ML Integration</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/end-user-protection" class="nav-link">End User Protection</NuxtLink>
+                                        <NuxtLink to="/microsoftsixtyfive" class="nav-link">Microsoft Dynamic 365
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/internet" class="nav-link">Internet</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/intranet" class="nav-link">Intranet</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/ui-development" class="nav-link">UI Development</NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/vapt" class="nav-link">VAPT</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/" class="nav-link">Server Hardening</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/staff-augumentation" class="nav-link">Staff Augmentation
+                                        </NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/dlp" class="nav-link">SAP Resources</NuxtLink>
+                                    </li>
+                                    <li class="nav-item">
+                                        <NuxtLink to="/dlp" class="nav-link">DLP</NuxtLink>
                                     </li>
                                 </ul>
                             </li>
